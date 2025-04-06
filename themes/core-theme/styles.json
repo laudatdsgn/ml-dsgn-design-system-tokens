@@ -2,8 +2,8 @@
   "styles": {
     "drop-shadow": {
       "dropdown": {
-        "$type": "boxShadow",
-        "$value": "{primitives.drop-shadow.shadow-md}"
+        "value": "{primitives.drop-shadow.shadow-md}",
+        "type": "boxShadow"
       }
     }
   }

@@ -2,389 +2,389 @@
   "color": {
     "surface": {
       "default": {
-        "$type": "color",
-        "$value": "{primitives.color.tint.white.100}"
+        "value": "{primitives.color.tint.white.100}",
+        "type": "color"
       }
     },
     "background": {
       "default": {
-        "$type": "color",
-        "$value": "{primitives.color.tint.white.100}"
+        "value": "{primitives.color.tint.white.100}",
+        "type": "color"
       },
       "muted": {
-        "$type": "color",
-        "$value": "{primitives.color.neutral.base.050}"
+        "value": "{primitives.color.neutral.base.050}",
+        "type": "color"
       },
       "strong": {
-        "$type": "color",
-        "$value": "{primitives.color.neutral.base.200}"
+        "value": "{primitives.color.neutral.base.200}",
+        "type": "color"
       },
       "overlay": {
-        "$type": "color",
-        "$value": "{primitives.color.tint.black.60}"
+        "value": "{primitives.color.tint.black.60}",
+        "type": "color"
       }
     },
     "foreground": {
       "default": {
-        "$type": "color",
-        "$value": "{primitives.color.neutral.base.900}"
+        "value": "{primitives.color.neutral.base.900}",
+        "type": "color"
       },
       "muted": {
-        "$type": "color",
-        "$value": "{primitives.color.neutral.base.500}"
+        "value": "{primitives.color.neutral.base.500}",
+        "type": "color"
       },
       "subtle": {
-        "$type": "color",
-        "$value": "{primitives.color.neutral.base.400}"
+        "value": "{primitives.color.neutral.base.400}",
+        "type": "color"
       },
       "inverted": {
-        "$type": "color",
-        "$value": "{primitives.color.tint.white.100}"
+        "value": "{primitives.color.tint.white.100}",
+        "type": "color"
       },
       "accent": {
-        "$type": "color",
-        "$value": "{primitives.color.primary.base.500}"
+        "value": "{primitives.color.primary.base.500}",
+        "type": "color"
       }
     },
     "outline": {
       "default": {
-        "$type": "color",
-        "$value": "{primitives.color.neutral.base.200}"
+        "value": "{primitives.color.neutral.base.200}",
+        "type": "color"
       },
       "muted": {
-        "$type": "color",
-        "$value": "{primitives.color.neutral.base.100}"
+        "value": "{primitives.color.neutral.base.100}",
+        "type": "color"
       }
     },
     "text": {
       "default": {
-        "$type": "color",
-        "$value": "{color.foreground.default}"
+        "value": "{color.foreground.default}",
+        "type": "color"
       },
       "muted": {
-        "$type": "color",
-        "$value": "{color.foreground.muted}"
+        "value": "{color.foreground.muted}",
+        "type": "color"
       },
       "subtle": {
-        "$type": "color",
-        "$value": "{color.foreground.subtle}"
+        "value": "{color.foreground.subtle}",
+        "type": "color"
       },
       "inverted": {
-        "$type": "color",
-        "$value": "{primitives.color.tint.white.100}"
+        "value": "{primitives.color.tint.white.100}",
+        "type": "color"
       },
       "accent": {
-        "$type": "color",
-        "$value": "{color.foreground.accent}"
+        "value": "{color.foreground.accent}",
+        "type": "color"
       }
     },
     "icon": {
       "default": {
-        "$type": "color",
-        "$value": "{color.foreground.default}"
+        "value": "{color.foreground.default}",
+        "type": "color"
       },
       "muted": {
-        "$type": "color",
-        "$value": "{color.foreground.muted}"
+        "value": "{color.foreground.muted}",
+        "type": "color"
       },
       "subtle": {
-        "$type": "color",
-        "$value": "{color.foreground.subtle}"
+        "value": "{color.foreground.subtle}",
+        "type": "color"
       },
       "inverted": {
-        "$type": "color",
-        "$value": "{color.foreground.inverted}"
+        "value": "{color.foreground.inverted}",
+        "type": "color"
       },
       "accent": {
-        "$type": "color",
-        "$value": "{color.foreground.accent}"
+        "value": "{color.foreground.accent}",
+        "type": "color"
       }
     },
     "disabled": {
       "default": {
-        "$type": "color",
-        "$value": "{primitives.color.neutral.base.200}"
+        "value": "{primitives.color.neutral.base.200}",
+        "type": "color"
       },
       "on-default": {
-        "$type": "color",
-        "$value": "{primitives.color.neutral.base.400}"
+        "value": "{primitives.color.neutral.base.400}",
+        "type": "color"
       }
     },
     "skeleton": {
       "default": {
-        "$type": "color",
-        "$value": "{primitives.color.neutral.base.100}"
+        "value": "{primitives.color.neutral.base.100}",
+        "type": "color"
       },
       "on-default": {
-        "$type": "color",
-        "$value": "{primitives.color.neutral.base.200}"
+        "value": "{primitives.color.neutral.base.200}",
+        "type": "color"
       }
     },
     "accent": {
       "primary": {
         "prominent": {
-          "$type": "color",
-          "$value": "{primitives.color.primary.base.950}"
+          "value": "{primitives.color.primary.base.950}",
+          "type": "color"
         },
         "strong": {
-          "$type": "color",
-          "$value": "{primitives.color.primary.base.700}"
+          "value": "{primitives.color.primary.base.700}",
+          "type": "color"
         },
         "base": {
-          "$type": "color",
-          "$value": "{primitives.color.primary.base.900}"
+          "value": "{primitives.color.primary.base.900}",
+          "type": "color"
         },
         "muted": {
-          "$type": "color",
-          "$value": "{primitives.color.primary.base.400}"
+          "value": "{primitives.color.primary.base.400}",
+          "type": "color"
         },
         "subtle": {
-          "$type": "color",
-          "$value": "{primitives.color.primary.base.300}"
+          "value": "{primitives.color.primary.base.300}",
+          "type": "color"
         },
         "faint": {
-          "$type": "color",
-          "$value": "{primitives.color.primary.base.200}"
+          "value": "{primitives.color.primary.base.200}",
+          "type": "color"
         },
         "ghost": {
-          "$type": "color",
-          "$value": "{primitives.color.primary.base.100}"
+          "value": "{primitives.color.primary.base.100}",
+          "type": "color"
         },
         "barely": {
-          "$type": "color",
-          "$value": "{primitives.color.primary.base.050}"
+          "value": "{primitives.color.primary.base.050}",
+          "type": "color"
         },
         "on-primary": {
-          "$type": "color",
-          "$value": "{primitives.color.tint.white.100}"
+          "value": "{primitives.color.tint.white.100}",
+          "type": "color"
         },
         "on-primary-inverted": {
-          "$type": "color",
-          "$value": "{primitives.color.primary.base.600}"
+          "value": "{primitives.color.primary.base.600}",
+          "type": "color"
         }
       },
       "positive": {
         "prominent": {
-          "$type": "color",
-          "$value": "{primitives.color.green.base.900}"
+          "value": "{primitives.color.green.base.900}",
+          "type": "color"
         },
         "strong": {
-          "$type": "color",
-          "$value": "{primitives.color.green.base.700}"
+          "value": "{primitives.color.green.base.700}",
+          "type": "color"
         },
         "base": {
-          "$type": "color",
-          "$value": "{primitives.color.green.base.500}"
+          "value": "{primitives.color.green.base.500}",
+          "type": "color"
         },
         "muted": {
-          "$type": "color",
-          "$value": "{primitives.color.green.base.400}"
+          "value": "{primitives.color.green.base.400}",
+          "type": "color"
         },
         "subtle": {
-          "$type": "color",
-          "$value": "{primitives.color.green.base.300}"
+          "value": "{primitives.color.green.base.300}",
+          "type": "color"
         },
         "faint": {
-          "$type": "color",
-          "$value": "{primitives.color.green.base.200}"
+          "value": "{primitives.color.green.base.200}",
+          "type": "color"
         },
         "ghost": {
-          "$type": "color",
-          "$value": "{primitives.color.green.base.100}"
+          "value": "{primitives.color.green.base.100}",
+          "type": "color"
         },
         "barely": {
-          "$type": "color",
-          "$value": "{primitives.color.green.base.050}"
+          "value": "{primitives.color.green.base.050}",
+          "type": "color"
         },
         "on-positive": {
-          "$type": "color",
-          "$value": "{primitives.color.tint.white.100}"
+          "value": "{primitives.color.tint.white.100}",
+          "type": "color"
         },
         "on-positive-inverted": {
-          "$type": "color",
-          "$value": "{primitives.color.green.base.600}"
+          "value": "{primitives.color.green.base.600}",
+          "type": "color"
         }
       },
       "warn": {
         "prominent": {
-          "$type": "color",
-          "$value": "{primitives.color.amber.base.900}"
+          "value": "{primitives.color.amber.base.900}",
+          "type": "color"
         },
         "strong": {
-          "$type": "color",
-          "$value": "{primitives.color.amber.base.700}"
+          "value": "{primitives.color.amber.base.700}",
+          "type": "color"
         },
         "base": {
-          "$type": "color",
-          "$value": "{primitives.color.amber.base.500}"
+          "value": "{primitives.color.amber.base.500}",
+          "type": "color"
         },
         "muted": {
-          "$type": "color",
-          "$value": "{primitives.color.amber.base.400}"
+          "value": "{primitives.color.amber.base.400}",
+          "type": "color"
         },
         "subtle": {
-          "$type": "color",
-          "$value": "{primitives.color.amber.base.300}"
+          "value": "{primitives.color.amber.base.300}",
+          "type": "color"
         },
         "faint": {
-          "$type": "color",
-          "$value": "{primitives.color.amber.base.200}"
+          "value": "{primitives.color.amber.base.200}",
+          "type": "color"
         },
         "ghost": {
-          "$type": "color",
-          "$value": "{primitives.color.amber.base.100}"
+          "value": "{primitives.color.amber.base.100}",
+          "type": "color"
         },
         "barely": {
-          "$type": "color",
-          "$value": "{primitives.color.amber.base.050}"
+          "value": "{primitives.color.amber.base.050}",
+          "type": "color"
         },
         "on-positive": {
-          "$type": "color",
-          "$value": "{primitives.color.tint.white.100}"
+          "value": "{primitives.color.tint.white.100}",
+          "type": "color"
         },
         "on-positive-inverted": {
-          "$type": "color",
-          "$value": "{primitives.color.amber.base.600}"
+          "value": "{primitives.color.amber.base.600}",
+          "type": "color"
         }
       },
       "attention": {
         "prominent": {
-          "$type": "color",
-          "$value": "{primitives.color.red.base.900}"
+          "value": "{primitives.color.red.base.900}",
+          "type": "color"
         },
         "strong": {
-          "$type": "color",
-          "$value": "{primitives.color.red.base.700}"
+          "value": "{primitives.color.red.base.700}",
+          "type": "color"
         },
         "base": {
-          "$type": "color",
-          "$value": "{primitives.color.red.base.500}"
+          "value": "{primitives.color.red.base.500}",
+          "type": "color"
         },
         "muted": {
-          "$type": "color",
-          "$value": "{primitives.color.red.base.400}"
+          "value": "{primitives.color.red.base.400}",
+          "type": "color"
         },
         "subtle": {
-          "$type": "color",
-          "$value": "{primitives.color.red.base.300}"
+          "value": "{primitives.color.red.base.300}",
+          "type": "color"
         },
         "faint": {
-          "$type": "color",
-          "$value": "{primitives.color.red.base.200}"
+          "value": "{primitives.color.red.base.200}",
+          "type": "color"
         },
         "ghost": {
-          "$type": "color",
-          "$value": "{primitives.color.red.base.100}"
+          "value": "{primitives.color.red.base.100}",
+          "type": "color"
         },
         "barely": {
-          "$type": "color",
-          "$value": "{primitives.color.red.base.050}"
+          "value": "{primitives.color.red.base.050}",
+          "type": "color"
         },
         "on-positive": {
-          "$type": "color",
-          "$value": "{primitives.color.tint.white.100}"
+          "value": "{primitives.color.tint.white.100}",
+          "type": "color"
         },
         "on-positive-inverted": {
-          "$type": "color",
-          "$value": "{primitives.color.red.base.600}"
+          "value": "{primitives.color.red.base.600}",
+          "type": "color"
         }
       },
       "informative": {
         "prominent": {
-          "$type": "color",
-          "$value": "{primitives.color.blue.base.900}"
+          "value": "{primitives.color.blue.base.900}",
+          "type": "color"
         },
         "strong": {
-          "$type": "color",
-          "$value": "{primitives.color.blue.base.700}"
+          "value": "{primitives.color.blue.base.700}",
+          "type": "color"
         },
         "base": {
-          "$type": "color",
-          "$value": "{primitives.color.blue.base.500}"
+          "value": "{primitives.color.blue.base.500}",
+          "type": "color"
         },
         "muted": {
-          "$type": "color",
-          "$value": "{primitives.color.blue.base.400}"
+          "value": "{primitives.color.blue.base.400}",
+          "type": "color"
         },
         "subtle": {
-          "$type": "color",
-          "$value": "{primitives.color.blue.base.300}"
+          "value": "{primitives.color.blue.base.300}",
+          "type": "color"
         },
         "faint": {
-          "$type": "color",
-          "$value": "{primitives.color.blue.base.200}"
+          "value": "{primitives.color.blue.base.200}",
+          "type": "color"
         },
         "ghost": {
-          "$type": "color",
-          "$value": "{primitives.color.blue.base.100}"
+          "value": "{primitives.color.blue.base.100}",
+          "type": "color"
         },
         "barely": {
-          "$type": "color",
-          "$value": "{primitives.color.blue.base.050}"
+          "value": "{primitives.color.blue.base.050}",
+          "type": "color"
         },
         "on-positive": {
-          "$type": "color",
-          "$value": "{primitives.color.tint.white.100}"
+          "value": "{primitives.color.tint.white.100}",
+          "type": "color"
         },
         "on-positive-inverted": {
-          "$type": "color",
-          "$value": "{primitives.color.blue.base.600}"
+          "value": "{primitives.color.blue.base.600}",
+          "type": "color"
         }
       },
       "neutral": {
         "prominent": {
-          "$type": "color",
-          "$value": "{primitives.color.neutral.base.900}"
+          "value": "{primitives.color.neutral.base.900}",
+          "type": "color"
         },
         "strong": {
-          "$type": "color",
-          "$value": "{primitives.color.neutral.base.700}"
+          "value": "{primitives.color.neutral.base.700}",
+          "type": "color"
         },
         "base": {
-          "$type": "color",
-          "$value": "{primitives.color.neutral.base.500}"
+          "value": "{primitives.color.neutral.base.500}",
+          "type": "color"
         },
         "muted": {
-          "$type": "color",
-          "$value": "{primitives.color.neutral.base.400}"
+          "value": "{primitives.color.neutral.base.400}",
+          "type": "color"
         },
         "subtle": {
-          "$type": "color",
-          "$value": "{primitives.color.neutral.base.300}"
+          "value": "{primitives.color.neutral.base.300}",
+          "type": "color"
         },
         "faint": {
-          "$type": "color",
-          "$value": "{primitives.color.neutral.base.200}"
+          "value": "{primitives.color.neutral.base.200}",
+          "type": "color"
         },
         "ghost": {
-          "$type": "color",
-          "$value": "{primitives.color.neutral.base.100}"
+          "value": "{primitives.color.neutral.base.100}",
+          "type": "color"
         },
         "barely": {
-          "$type": "color",
-          "$value": "{primitives.color.neutral.base.050}"
+          "value": "{primitives.color.neutral.base.050}",
+          "type": "color"
         },
         "on-positive": {
-          "$type": "color",
-          "$value": "{primitives.color.tint.white.100}"
+          "value": "{primitives.color.tint.white.100}",
+          "type": "color"
         },
         "on-positive-inverted": {
-          "$type": "color",
-          "$value": "{primitives.color.neutral.base.600}"
+          "value": "{primitives.color.neutral.base.600}",
+          "type": "color"
         }
       }
     }
   },
   "helpers": {
     "hack-bg-nested-comps [DO NOT IMPLEMENT]": {
-      "$type": "color",
-      "$value": "#fff5b4",
-      "$description": "Helper bg color for nested components parts. DO NOT IMPLEMENT!"
+      "value": "#fff5b4",
+      "description": "Helper bg color for nested components parts. DO NOT IMPLEMENT!",
+      "type": "color"
     },
     "bg-figma-canvas [DO NOT IMPLEMENT]": {
-      "$type": "color",
-      "$value": "#F5F5F5",
-      "$description": "Default Figma canvas bg for theming"
+      "value": "#F5F5F5",
+      "description": "Default Figma canvas bg for theming",
+      "type": "color"
     }
   }
 }

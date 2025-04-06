@@ -2,62 +2,62 @@
   "primitives": {
     "background-blur": {
       "blur-none": {
-        "$type": "dimension",
-        "$value": "0px"
+        "value": "0px",
+        "type": "dimension"
       },
       "blur-sm": {
-        "$type": "dimension",
-        "$value": "4px"
+        "value": "4px",
+        "type": "dimension"
       },
       "blur-md": {
-        "$type": "dimension",
-        "$value": "8px"
+        "value": "8px",
+        "type": "dimension"
       },
       "blur-lg": {
-        "$type": "dimension",
-        "$value": "12px"
+        "value": "12px",
+        "type": "dimension"
       },
       "blur-xl": {
-        "$type": "dimension",
-        "$value": "16px"
+        "value": "16px",
+        "type": "dimension"
       },
       "blur-2xl": {
-        "$type": "dimension",
-        "$value": "24px"
+        "value": "24px",
+        "type": "dimension"
       },
       "blur-3xl": {
-        "$type": "dimension",
-        "$value": "40px"
+        "value": "40px",
+        "type": "dimension"
       }
     },
     "layer-blur": {
       "blur-none": {
-        "$type": "dimension",
-        "$value": "0px"
+        "value": "0px",
+        "type": "dimension"
       },
       "blur-sm": {
-        "$type": "dimension",
-        "$value": "4px"
+        "value": "4px",
+        "type": "dimension"
       },
       "blur-md": {
-        "$type": "dimension",
-        "$value": "8px"
+        "value": "8px",
+        "type": "dimension"
       },
       "blur-lg": {
-        "$type": "dimension",
-        "$value": "12px"
+        "value": "12px",
+        "type": "dimension"
       },
       "blur-xl": {
-        "$type": "dimension",
-        "$value": "16px"
+        "value": "16px",
+        "type": "dimension"
       },
       "blur-2xl": {
-        "$type": "dimension",
-        "$value": "24px"
+        "value": "24px",
+        "type": "dimension"
       },
       "blur-3xl": {
-        "$type": "dimension",
-        "$value": "40px"
+        "value": "40px",
+        "type": "dimension"
       }
     }
   }
