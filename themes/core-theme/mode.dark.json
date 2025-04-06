@@ -1,5 +1,5 @@
 {
-  "color": {
+  "semantic": {
     "surface": {
       "default": {
         "value": "{primitives.color.neutral.base.900}",
@@ -58,15 +58,15 @@
     },
     "text": {
       "default": {
-        "value": "{color.foreground.default}",
+        "value": "{semantic.foreground.default}",
         "type": "color"
       },
       "muted": {
-        "value": "{color.foreground.muted}",
+        "value": "{semantic.foreground.muted}",
         "type": "color"
       },
       "subtle": {
-        "value": "{color.foreground.subtle}",
+        "value": "{semantic.foreground.subtle}",
         "type": "color"
       },
       "inverted": {
@@ -74,29 +74,29 @@
         "type": "color"
       },
       "accent": {
-        "value": "{color.foreground.accent}",
+        "value": "{semantic.foreground.accent}",
         "type": "color"
       }
     },
     "icon": {
       "default": {
-        "value": "{color.foreground.default}",
+        "value": "{semantic.foreground.default}",
         "type": "color"
       },
       "muted": {
-        "value": "{color.foreground.muted}",
+        "value": "{semantic.foreground.muted}",
         "type": "color"
       },
       "subtle": {
-        "value": "{color.foreground.subtle}",
+        "value": "{semantic.foreground.subtle}",
         "type": "color"
       },
       "inverted": {
-        "value": "{color.foreground.inverted}",
+        "value": "{semantic.foreground.inverted}",
         "type": "color"
       },
       "accent": {
-        "value": "{color.foreground.accent}",
+        "value": "{semantic.foreground.accent}",
         "type": "color"
       }
     },
