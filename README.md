@@ -1,1 +1,1 @@
-# ml-dsg-design-system-tokens
+# ml-dsgn-design-system-tokens
