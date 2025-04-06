@@ -238,11 +238,11 @@
           "value": "{primitives.color.amber.base.050}",
           "type": "color"
         },
-        "on-positive": {
+        "on-warn": {
           "value": "{primitives.color.tint.white.100}",
           "type": "color"
         },
-        "on-positive-inverted": {
+        "on-warn-inverted": {
           "value": "{primitives.color.amber.base.600}",
           "type": "color"
         }
@@ -280,11 +280,11 @@
           "value": "{primitives.color.red.base.050}",
           "type": "color"
         },
-        "on-positive": {
+        "on-attention": {
           "value": "{primitives.color.tint.white.100}",
           "type": "color"
         },
-        "on-positive-inverted": {
+        "on-attention-inverted": {
           "value": "{primitives.color.red.base.600}",
           "type": "color"
         }
@@ -322,11 +322,11 @@
           "value": "{primitives.color.blue.base.050}",
           "type": "color"
         },
-        "on-positive": {
+        "on-informative": {
           "value": "{primitives.color.tint.white.100}",
           "type": "color"
         },
-        "on-positive-inverted": {
+        "on-informative-inverted": {
           "value": "{primitives.color.blue.base.600}",
           "type": "color"
         }
@@ -364,11 +364,11 @@
           "value": "{primitives.color.neutral.base.050}",
           "type": "color"
         },
-        "on-positive": {
+        "on-neutral": {
           "value": "{primitives.color.tint.white.100}",
           "type": "color"
         },
-        "on-positive-inverted": {
+        "on-neutral-inverted": {
           "value": "{primitives.color.neutral.base.600}",
           "type": "color"
         }
