@@ -1,0 +1,136 @@
+{
+  "device": {
+    "min-width": {
+      "$type": "sizing",
+      "$value": "1440"
+    },
+    "min-height": {
+      "$type": "sizing",
+      "$value": "1024"
+    }
+  },
+  "typeset": {
+    "scale": {
+      "rem-base": {
+        "$type": "number",
+        "$value": "16"
+      }
+    },
+    "font-size": {
+      "4xl": {
+        "$type": "fontSizes",
+        "$value": "roundTo(( {typeset.scale.rem-base} * pow( {typeset.scale.operators.multiplier}, 6)) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+      },
+      "3xl": {
+        "$type": "fontSizes",
+        "$value": "roundTo(( {typeset.scale.rem-base} * pow( {typeset.scale.operators.multiplier}, 5)) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+      },
+      "2xl": {
+        "$type": "fontSizes",
+        "$value": "roundTo(( {typeset.scale.rem-base} * pow( {typeset.scale.operators.multiplier}, 4)) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+      },
+      "xl": {
+        "$type": "fontSizes",
+        "$value": "roundTo(( {typeset.scale.rem-base} * pow( {typeset.scale.operators.multiplier}, 3)) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+      },
+      "lg": {
+        "$type": "fontSizes",
+        "$value": "roundTo(( {typeset.scale.rem-base} * pow( {typeset.scale.operators.multiplier}, 2)) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+      },
+      "md": {
+        "$type": "fontSizes",
+        "$value": "roundTo(( {typeset.scale.rem-base} * pow( {typeset.scale.operators.multiplier}, 1)) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+      },
+      "base": {
+        "$type": "fontSizes",
+        "$value": "roundTo(( {typeset.scale.rem-base} * pow( {typeset.scale.operators.multiplier}, 0)) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+      },
+      "sm": {
+        "$type": "fontSizes",
+        "$value": "roundTo(( {typeset.scale.rem-base} * pow( {typeset.scale.operators.multiplier}, -1)) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+      },
+      "xs": {
+        "$type": "fontSizes",
+        "$value": "roundTo(( {typeset.scale.rem-base} * pow( {typeset.scale.operators.multiplier}, -2)) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+      }
+    },
+    "line-height": {
+      "display": {
+        "4xl": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.4xl} * {typeset.scale.operators.display-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "3xl": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.3xl} * {typeset.scale.operators.display-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "2xl": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.2xl} * {typeset.scale.operators.display-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "xl": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.xl} * {typeset.scale.operators.display-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "lg": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.lg} * {typeset.scale.operators.display-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "md": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.md} * {typeset.scale.operators.display-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "base": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.base} * {typeset.scale.operators.display-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "sm": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.sm} * {typeset.scale.operators.display-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "xs": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.xs} * {typeset.scale.operators.display-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        }
+      },
+      "body": {
+        "4xl": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.4xl} * {typeset.scale.operators.body-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "3xl": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.3xl} * {typeset.scale.operators.body-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "2xl": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.2xl} * {typeset.scale.operators.body-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "xl": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.xl} * {typeset.scale.operators.body-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "lg": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.lg} * {typeset.scale.operators.body-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "md": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.md} * {typeset.scale.operators.body-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "base": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.base} * {typeset.scale.operators.body-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "sm": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.sm} * {typeset.scale.operators.body-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        },
+        "xs": {
+          "$type": "lineHeights",
+          "$value": "roundTo(({typeset.font-size.xs} * {typeset.scale.operators.body-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}"
+        }
+      }
+    }
+  }
+}

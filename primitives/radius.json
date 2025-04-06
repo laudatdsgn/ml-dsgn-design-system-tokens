@@ -1,0 +1,46 @@
+{
+  "primitives": {
+    "radius": {
+      "radius-xs": {
+        "$type": "borderRadius",
+        "$value": "2"
+      },
+      "radius-sm": {
+        "$type": "borderRadius",
+        "$value": "4"
+      },
+      "radius-md": {
+        "$type": "borderRadius",
+        "$value": "6"
+      },
+      "radius-lg": {
+        "$type": "borderRadius",
+        "$value": "8"
+      },
+      "radius-xl": {
+        "$type": "borderRadius",
+        "$value": "12"
+      },
+      "radius-2xl": {
+        "$type": "borderRadius",
+        "$value": "16"
+      },
+      "radius-3xl": {
+        "$type": "borderRadius",
+        "$value": "24"
+      },
+      "radius-4xl": {
+        "$type": "borderRadius",
+        "$value": "32"
+      },
+      "radius-none": {
+        "$type": "borderRadius",
+        "$value": "0"
+      },
+      "radius-full": {
+        "$type": "borderRadius",
+        "$value": "999"
+      }
+    }
+  }
+}

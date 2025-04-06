@@ -1,0 +1,23 @@
+{
+  "tokenSetOrder": [
+    "primitives/colors",
+    "primitives/spacing",
+    "primitives/sizing",
+    "primitives/opacity",
+    "primitives/border",
+    "primitives/radius",
+    "primitives/elevation",
+    "primitives/blur",
+    "primitives/breakpoint",
+    "——————",
+    "themes/core-theme/styles",
+    "themes/core-theme/typography",
+    "themes/core-theme/mode.light",
+    "themes/core-theme/mode.dark",
+    "themes/core-theme/responsive.desktop",
+    "themes/core-theme/responsive.tablet",
+    "themes/core-theme/responsive.mobile",
+    "themes/---------------",
+    "themes/custom-theme"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "primitives": {
+    "sizing": {
+      "sz-0": {
+        "$type": "sizing",
+        "$value": "0"
+      },
+      "sz-4": {
+        "$type": "sizing",
+        "$value": "4"
+      },
+      "sz-6": {
+        "$type": "sizing",
+        "$value": "6"
+      },
+      "sz-8": {
+        "$type": "sizing",
+        "$value": "8"
+      },
+      "sz-12": {
+        "$type": "sizing",
+        "$value": "12"
+      },
+      "sz-16": {
+        "$type": "sizing",
+        "$value": "16"
+      },
+      "sz-20": {
+        "$type": "sizing",
+        "$value": "20"
+      },
+      "sz-24": {
+        "$type": "sizing",
+        "$value": "24"
+      },
+      "sz-28": {
+        "$type": "sizing",
+        "$value": "28"
+      },
+      "sz-32": {
+        "$type": "sizing",
+        "$value": "32"
+      },
+      "sz-36": {
+        "$type": "sizing",
+        "$value": "36"
+      },
+      "sz-40": {
+        "$type": "sizing",
+        "$value": "40"
+      },
+      "sz-44": {
+        "$type": "sizing",
+        "$value": "44"
+      },
+      "sz-48": {
+        "$type": "sizing",
+        "$value": "48"
+      },
+      "sz-52": {
+        "$type": "sizing",
+        "$value": "52"
+      },
+      "sz-56": {
+        "$type": "sizing",
+        "$value": "56"
+      },
+      "sz-60": {
+        "$type": "sizing",
+        "$value": "60"
+      },
+      "sz-64": {
+        "$type": "sizing",
+        "$value": "64"
+      },
+      "sz-68": {
+        "$type": "sizing",
+        "$value": "68"
+      },
+      "sz-72": {
+        "$type": "sizing",
+        "$value": "72"
+      },
+      "sz-76": {
+        "$type": "sizing",
+        "$value": "76"
+      },
+      "sz-80": {
+        "$type": "sizing",
+        "$value": "80"
+      },
+      "sz-84": {
+        "$type": "sizing",
+        "$value": "84"
+      },
+      "sz-88": {
+        "$type": "sizing",
+        "$value": "88"
+      },
+      "sz-92": {
+        "$type": "sizing",
+        "$value": "92"
+      },
+      "sz-96": {
+        "$type": "sizing",
+        "$value": "96"
+      }
+    }
+  }
+}

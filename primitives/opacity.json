@@ -1,0 +1,86 @@
+{
+  "primitives": {
+    "opacity": {
+      "o-5": {
+        "$type": "opacity",
+        "$value": "5%"
+      },
+      "o-10": {
+        "$type": "opacity",
+        "$value": "10%"
+      },
+      "o-15": {
+        "$type": "opacity",
+        "$value": "15%"
+      },
+      "o-20": {
+        "$type": "opacity",
+        "$value": "20%"
+      },
+      "o-25": {
+        "$type": "opacity",
+        "$value": "25%"
+      },
+      "o-30": {
+        "$type": "opacity",
+        "$value": "30%"
+      },
+      "o-35": {
+        "$type": "opacity",
+        "$value": "35%"
+      },
+      "o-40": {
+        "$type": "opacity",
+        "$value": "40%"
+      },
+      "o-45": {
+        "$type": "opacity",
+        "$value": "45%"
+      },
+      "o-50": {
+        "$type": "opacity",
+        "$value": "50%"
+      },
+      "o-55": {
+        "$type": "opacity",
+        "$value": "55%"
+      },
+      "o-60": {
+        "$type": "opacity",
+        "$value": "60%"
+      },
+      "o-65": {
+        "$type": "opacity",
+        "$value": "65%"
+      },
+      "o-70": {
+        "$type": "opacity",
+        "$value": "70%"
+      },
+      "o-75": {
+        "$type": "opacity",
+        "$value": "75%"
+      },
+      "o-80": {
+        "$type": "opacity",
+        "$value": "80%"
+      },
+      "o-85": {
+        "$type": "opacity",
+        "$value": "85%"
+      },
+      "o-90": {
+        "$type": "opacity",
+        "$value": "90%"
+      },
+      "o-95": {
+        "$type": "opacity",
+        "$value": "95%"
+      },
+      "o-100": {
+        "$type": "opacity",
+        "$value": "100%"
+      }
+    }
+  }
+}

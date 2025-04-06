@@ -1,0 +1,64 @@
+{
+  "primitives": {
+    "background-blur": {
+      "blur-none": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "blur-sm": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "blur-md": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "blur-lg": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "blur-xl": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "blur-2xl": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "blur-3xl": {
+        "$type": "dimension",
+        "$value": "40px"
+      }
+    },
+    "layer-blur": {
+      "blur-none": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "blur-sm": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "blur-md": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "blur-lg": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "blur-xl": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "blur-2xl": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "blur-3xl": {
+        "$type": "dimension",
+        "$value": "40px"
+      }
+    }
+  }
+}

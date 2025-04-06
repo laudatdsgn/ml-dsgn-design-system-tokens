@@ -1,0 +1,22 @@
+{
+  "primitives": {
+    "border": {
+      "border-none": {
+        "$type": "borderWidth",
+        "$value": "0"
+      },
+      "border-base": {
+        "$type": "borderWidth",
+        "$value": "1"
+      },
+      "border-lg": {
+        "$type": "borderWidth",
+        "$value": "2"
+      },
+      "border-xl": {
+        "$type": "borderWidth",
+        "$value": "4"
+      }
+    }
+  }
+}
