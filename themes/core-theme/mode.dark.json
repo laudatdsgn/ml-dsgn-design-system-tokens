@@ -365,11 +365,11 @@
           "type": "color"
         },
         "on-neutral": {
-          "value": "{primitives.color.tint.white.100}",
+          "value": "{semantic.foreground.default}",
           "type": "color"
         },
         "on-neutral-inverted": {
-          "value": "{primitives.color.neutral.base.400}",
+          "value": "{semantic.foreground.inverted}",
           "type": "color"
         }
       }
