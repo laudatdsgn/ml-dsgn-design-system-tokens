@@ -34,8 +34,7 @@
       "primitives/breakpoint": "enabled",
       "primitives/elevation": "enabled",
       "primitives/spacing": "enabled",
-      "primitives/sizing": "enabled",
-      "mode.light-new": "disabled"
+      "primitives/sizing": "enabled"
     },
     "group": "01-primitives",
     "$figmaCollectionId": "VariableCollectionId:101:4368",
@@ -443,8 +442,7 @@
       "primitives/colors": "source",
       "themes/core-theme/styles": "enabled",
       "themes/core-theme/typography": "enabled",
-      "themes/core-theme/mode.light": "enabled",
-      "mode.light-new": "disabled"
+      "themes/core-theme/mode.light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:101:4369",
     "$figmaModeId": "101:1",
@@ -608,8 +606,7 @@
       "primitives/colors": "source",
       "themes/core-theme/styles": "enabled",
       "themes/core-theme/typography": "enabled",
-      "themes/core-theme/mode.dark": "enabled",
-      "mode.light-new": "disabled"
+      "themes/core-theme/mode.dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:101:4369",
     "$figmaModeId": "101:2",
@@ -747,8 +744,7 @@
     "selectedTokenSets": {
       "themes/core-theme/typography": "source",
       "themes/core-theme/responsive.desktop": "enabled",
-      "themes/core-theme/styles": "source",
-      "mode.light-new": "disabled"
+      "themes/core-theme/styles": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:101:4370",
     "$figmaModeId": "101:3",
@@ -793,8 +789,7 @@
     "selectedTokenSets": {
       "themes/core-theme/typography": "source",
       "themes/core-theme/responsive.tablet": "enabled",
-      "themes/core-theme/styles": "source",
-      "mode.light-new": "disabled"
+      "themes/core-theme/styles": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:101:4370",
     "$figmaModeId": "101:4",
@@ -839,8 +834,7 @@
     "selectedTokenSets": {
       "themes/core-theme/styles": "source",
       "themes/core-theme/typography": "source",
-      "themes/core-theme/responsive.mobile": "enabled",
-      "mode.light-new": "disabled"
+      "themes/core-theme/responsive.mobile": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:101:4370",
     "$figmaModeId": "101:5",

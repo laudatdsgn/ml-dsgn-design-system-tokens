@@ -378,13 +378,13 @@
   "helpers": {
     "hack-bg-nested-comps [DO NOT IMPLEMENT]": {
       "value": "#fff5b4",
-      "description": "Helper bg color for nested components parts. DO NOT IMPLEMENT!",
-      "type": "color"
+      "type": "color",
+      "description": "Helper bg color for nested components parts. DO NOT IMPLEMENT!"
     },
     "bg-figma-canvas [DO NOT IMPLEMENT]": {
       "value": "#F5F5F5",
-      "description": "Default Figma canvas bg for theming",
-      "type": "color"
+      "type": "color",
+      "description": "Default Figma canvas bg for theming"
     }
   }
 }
