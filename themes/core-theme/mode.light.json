@@ -669,11 +669,11 @@
         "ghost": {
           "default": {
             "bg": {
-              "value": "{primitives.color.neutral.base.050}",
+              "value": "{primitives.color.tint.white.100}",
               "type": "color"
             },
             "fg": {
-              "value": "{primitives.color.neutral.base.600}",
+              "value": "{primitives.color.neutral.base.900}",
               "type": "color"
             },
             "stroke": {
@@ -687,7 +687,7 @@
               "type": "color"
             },
             "fg": {
-              "value": "{primitives.color.neutral.base.600}",
+              "value": "{primitives.color.neutral.base.900}",
               "type": "color"
             },
             "stroke": {
@@ -701,13 +701,107 @@
               "type": "color"
             },
             "fg": {
-              "value": "{primitives.color.neutral.base.700}",
+              "value": "{primitives.color.neutral.base.900}",
               "type": "color"
             },
             "stroke": {
               "value": "{primitives.color.neutral.base.500}",
               "type": "color"
             }
+          }
+        }
+      },
+      "link": {
+        "default": {
+          "value": "{primitives.color.primary.base.900}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{primitives.color.primary.base.700}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{primitives.color.primary.base.900}",
+          "type": "color"
+        }
+      },
+      "form": {
+        "idle": {
+          "bg": {
+            "value": "{primitives.color.tint.white.100}",
+            "type": "color"
+          },
+          "bg-muted": {
+            "value": "{primitives.color.neutral.base.200}",
+            "type": "color"
+          },
+          "stroke": {
+            "value": "{primitives.color.neutral.base.300}",
+            "type": "color"
+          },
+          "placeholder": {
+            "value": "{primitives.color.neutral.base.400}",
+            "type": "color"
+          },
+          "value": {
+            "value": "{color.text.primary.default}",
+            "type": "color"
+          },
+          "label": {
+            "value": "{color.text.primary.default}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "bg": {
+            "value": "{primitives.color.tint.white.100}",
+            "type": "color"
+          },
+          "bg-muted": {
+            "value": "{primitives.color.neutral.base.300}",
+            "type": "color"
+          },
+          "stroke": {
+            "value": "{primitives.color.primary.base.400}",
+            "type": "color"
+          },
+          "placeholder": {
+            "value": "{primitives.color.neutral.base.400}",
+            "type": "color"
+          },
+          "value": {
+            "value": "{color.text.primary.default}",
+            "type": "color"
+          },
+          "label": {
+            "value": "{color.text.primary.default}",
+            "type": "color"
+          }
+        },
+        "focus": {
+          "bg": {
+            "value": "{primitives.color.tint.white.100}",
+            "type": "color"
+          },
+          "bg-muted": {
+            "value": "{primitives.color.neutral.base.400}",
+            "type": "color"
+          },
+          "stroke": {
+            "value": "{primitives.color.primary.base.900}",
+            "type": "color"
+          },
+          "placeholder": {
+            "value": "{primitives.color.neutral.base.400}",
+            "type": "color"
+          },
+          "value": {
+            "value": "{color.text.primary.default}",
+            "type": "color"
+          },
+          "label": {
+            "value": "{color.text.primary.default}",
+            "type": "color"
           }
         }
       }
@@ -919,6 +1013,10 @@
       },
       "subtle": {
         "value": "{primitives.color.neutral.base.200}",
+        "type": "color"
+      },
+      "ghost": {
+        "value": "{primitives.color.neutral.base.100}",
         "type": "color"
       }
     },

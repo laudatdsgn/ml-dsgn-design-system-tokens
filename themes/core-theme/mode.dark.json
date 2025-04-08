@@ -673,7 +673,7 @@
               "type": "color"
             },
             "fg": {
-              "value": "{primitives.color.neutral.base.600}",
+              "value": "{primitives.color.neutral.base.900}",
               "type": "color"
             },
             "stroke": {
@@ -687,7 +687,7 @@
               "type": "color"
             },
             "fg": {
-              "value": "{primitives.color.neutral.base.600}",
+              "value": "{primitives.color.neutral.base.900}",
               "type": "color"
             },
             "stroke": {
@@ -701,7 +701,7 @@
               "type": "color"
             },
             "fg": {
-              "value": "{primitives.color.neutral.base.700}",
+              "value": "{primitives.color.neutral.base.900}",
               "type": "color"
             },
             "stroke": {
@@ -709,6 +709,20 @@
               "type": "color"
             }
           }
+        }
+      },
+      "link": {
+        "default": {
+          "value": "{primitives.color.primary.base.900}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{primitives.color.primary.base.700}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{primitives.color.primary.base.900}",
+          "type": "color"
         }
       }
     },
