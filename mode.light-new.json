@@ -712,6 +712,20 @@
         }
       }
     },
+    "foreground": {
+      "default": {
+        "value": "{primitives.color.neutral.base.900}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{primitives.color.neutral.base.500}",
+        "type": "color"
+      },
+      "ghost": {
+        "value": "{primitives.color.neutral.base.300}",
+        "type": "color"
+      }
+    },
     "surface": {
       "default": {
         "value": "{primitives.color.tint.white.100}",
@@ -729,15 +743,15 @@
     "icon": {
       "primary": {
         "default": {
-          "value": "{primitives.color.neutral.base.900}",
+          "value": "{color.foreground.default}",
           "type": "color"
         },
         "subtle": {
-          "value": "{primitives.color.neutral.base.500}",
+          "value": "{color.foreground.subtle}",
           "type": "color"
         },
         "ghost": {
-          "value": "{primitives.color.neutral.base.300}",
+          "value": "{color.foreground.ghost}",
           "type": "color"
         }
       },
@@ -815,15 +829,15 @@
     "text": {
       "primary": {
         "default": {
-          "value": "{primitives.color.neutral.base.900}",
+          "value": "{color.foreground.default}",
           "type": "color"
         },
         "subtle": {
-          "value": "{primitives.color.neutral.base.500}",
+          "value": "{color.foreground.subtle}",
           "type": "color"
         },
         "ghost": {
-          "value": "{primitives.color.neutral.base.300}",
+          "value": "{color.foreground.ghost}",
           "type": "color"
         }
       },
