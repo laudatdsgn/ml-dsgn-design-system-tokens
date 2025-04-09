@@ -1,11 +1,11 @@
 {
   "device": {
     "min-width": {
-      "value": "1024",
+      "value": "375",
       "type": "sizing"
     },
     "min-height": {
-      "value": "1366",
+      "value": "812",
       "type": "sizing"
     }
   },
