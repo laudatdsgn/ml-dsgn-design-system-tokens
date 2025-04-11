@@ -692,8 +692,7 @@
       "typeset.scale.operators.multiplier": "e41e372685deb9de0697658e22cc2ed71b5ac70b",
       "typeset.scale.operators.display-line-height-multiplier": "6f2e3f3afc99b5b16049ec7de7bbdb23bde2563f",
       "typeset.scale.operators.body-line-height-multiplier": "4fba82188156d43a81eaa494089fa000561bd823",
-      "typeset.scale.operators.factor": "8298b9347376ff7694e1422a176f7ee9b0321d17",
-      "color.semantic.background.dark-static": "1541c2b1e581119624daf5b70842dfc6c017d463"
+      "typeset.scale.operators.factor": "8298b9347376ff7694e1422a176f7ee9b0321d17"
     },
     "group": "02-theme"
   },

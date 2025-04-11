@@ -463,10 +463,6 @@
         "inverse": {
           "value": "{color.alias.background.inverse}",
           "type": "color"
-        },
-        "dark-static": {
-          "value": "{primitives.color.neutral.base.800}",
-          "type": "color"
         }
       },
       "static": {
