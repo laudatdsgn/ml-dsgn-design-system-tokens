@@ -609,7 +609,7 @@
       },
       "disabled": {
         "bg-base": {
-          "value": "{color.alias.background.muted}",
+          "value": "{color.alias.background.soft}",
           "type": "color"
         },
         "fg-base": {
