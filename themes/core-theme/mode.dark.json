@@ -68,6 +68,10 @@
           "value": "{primitives.color.neutral.base.700}",
           "type": "color"
         },
+        "muted": {
+          "value": "{primitives.color.neutral.base.800}",
+          "type": "color"
+        },
         "strong": {
           "value": "{primitives.color.neutral.base.500}",
           "type": "color"
@@ -373,11 +377,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.neutral.base.900}",
+              "value": "{primitives.color.neutral.base.800}",
               "type": "color"
             },
             "pressed": {
-              "value": "{primitives.color.neutral.base.800}",
+              "value": "{primitives.color.neutral.base.700}",
               "type": "color"
             }
           },
@@ -496,6 +500,10 @@
         },
         "subtle": {
           "value": "{color.alias.border.subtle}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.alias.border.muted}",
           "type": "color"
         },
         "strong": {

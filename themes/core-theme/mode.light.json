@@ -68,6 +68,10 @@
           "value": "{primitives.color.neutral.base.200}",
           "type": "color"
         },
+        "muted": {
+          "value": "{primitives.color.neutral.base.100}",
+          "type": "color"
+        },
         "strong": {
           "value": "{primitives.color.neutral.base.400}",
           "type": "color"
@@ -500,6 +504,10 @@
         },
         "subtle": {
           "value": "{color.alias.border.subtle}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.alias.border.muted}",
           "type": "color"
         },
         "strong": {
