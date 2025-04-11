@@ -25,7 +25,7 @@
       },
       "surface": {
         "base": {
-          "value": "{primitives.color.tint.white.100}",
+          "value": "{primitives.color.neutral.base.900}",
           "type": "color"
         },
         "lowest": {
@@ -43,19 +43,19 @@
       },
       "text": {
         "primary": {
-          "value": "{primitives.color.neutral.base.900}",
+          "value": "{primitives.color.tint.white.100}",
           "type": "color"
         },
         "secondary": {
-          "value": "{primitives.color.neutral.base.500}",
-          "type": "color"
-        },
-        "muted": {
           "value": "{primitives.color.neutral.base.400}",
           "type": "color"
         },
+        "muted": {
+          "value": "{primitives.color.neutral.base.500}",
+          "type": "color"
+        },
         "inverse": {
-          "value": "{primitives.color.tint.white.100}",
+          "value": "{primitives.color.neutral.base.900}",
           "type": "color"
         }
       },
@@ -80,15 +80,15 @@
       "accent": {
         "primary": {
           "base": {
-            "value": "{primitives.color.primary.base.900}",
+            "value": "{primitives.color.tint.white.100}",
             "type": "color"
           },
           "hover": {
-            "value": "{primitives.color.primary.base.800}",
+            "value": "{primitives.color.neutral.base.200}",
             "type": "color"
           },
           "pressed": {
-            "value": "{primitives.color.primary.base.700}",
+            "value": "{primitives.color.neutral.base.300}",
             "type": "color"
           }
         },
@@ -467,7 +467,7 @@
       },
       "surface": {
         "canvas": {
-          "value": "{color.alias.background.base}",
+          "value": "{color.alias.surface.base}",
           "type": "color"
         },
         "lowest": {

@@ -467,7 +467,7 @@
       },
       "surface": {
         "canvas": {
-          "value": "{color.alias.background.base}",
+          "value": "{color.alias.surface.base}",
           "type": "color"
         },
         "lowest": {
