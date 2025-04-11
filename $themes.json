@@ -484,7 +484,7 @@
       "typeset.scale.operators.factor": "8bd820705108202bf72475fbb034fae73e682cf9",
       "color.alias.background.default": "0226f5680be9d726870e733fbfabd60a25a67f47",
       "color.alias.background.inverse": "92fe55801be684e090d4a4418743ac977ae4b872",
-      "color.alias.background.subtle": "f71147bdee794f57197864c8b182746dfbe4f07c"
+      "color.alias.background.soft": "f71147bdee794f57197864c8b182746dfbe4f07c"
     },
     "group": "02-theme"
   },
