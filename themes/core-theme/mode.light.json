@@ -506,10 +506,6 @@
           "value": "{color.alias.border.subtle}",
           "type": "color"
         },
-        "muted": {
-          "value": "{color.alias.border.muted}",
-          "type": "color"
-        },
         "strong": {
           "value": "{color.alias.border.strong}",
           "type": "color"
