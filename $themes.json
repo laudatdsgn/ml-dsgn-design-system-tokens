@@ -553,6 +553,7 @@
       "color.semantic.surface.overlay": "b4b242dbc7a7142f13ce749423d0a71ef9c90c53",
       "color.semantic.border.base": "99fad79d3688e06ef0b047beea9662df14fb6db5",
       "color.semantic.border.subtle": "f3869b92ec0bd8de58ee658bbd9eb021f5b224c2",
+      "color.semantic.border.muted": "975e1fd2c2b6f702a7b4db38d536d3068c43b193",
       "color.semantic.border.strong": "29ada077fda7d351a35132328c8990a2d0958dd0",
       "color.semantic.border.focus": "959ffc98e107119a439bd2540fe9205d59e106c4",
       "color.semantic.feedback.positive.solid": "7dc40be127502dee8c793c500ce034e1164d29f4",
@@ -840,6 +841,7 @@
       "color.semantic.surface.overlay": "b4b242dbc7a7142f13ce749423d0a71ef9c90c53",
       "color.semantic.border.base": "99fad79d3688e06ef0b047beea9662df14fb6db5",
       "color.semantic.border.subtle": "f3869b92ec0bd8de58ee658bbd9eb021f5b224c2",
+      "color.semantic.border.muted": "975e1fd2c2b6f702a7b4db38d536d3068c43b193",
       "color.semantic.border.strong": "29ada077fda7d351a35132328c8990a2d0958dd0",
       "color.semantic.border.focus": "959ffc98e107119a439bd2540fe9205d59e106c4",
       "color.semantic.feedback.positive.solid": "7dc40be127502dee8c793c500ce034e1164d29f4",
@@ -979,8 +981,7 @@
       "typeset.scale.operators.multiplier": "e41e372685deb9de0697658e22cc2ed71b5ac70b",
       "typeset.scale.operators.display-line-height-multiplier": "6f2e3f3afc99b5b16049ec7de7bbdb23bde2563f",
       "typeset.scale.operators.body-line-height-multiplier": "4fba82188156d43a81eaa494089fa000561bd823",
-      "typeset.scale.operators.factor": "8298b9347376ff7694e1422a176f7ee9b0321d17",
-      "color.semantic.border.muted": "975e1fd2c2b6f702a7b4db38d536d3068c43b193"
+      "typeset.scale.operators.factor": "8298b9347376ff7694e1422a176f7ee9b0321d17"
     },
     "group": "02-theme"
   },
