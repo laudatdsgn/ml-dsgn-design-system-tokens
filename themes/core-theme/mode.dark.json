@@ -83,17 +83,61 @@
       },
       "accent": {
         "primary": {
-          "base": {
-            "value": "{primitives.color.tint.white.100}",
-            "type": "color"
+          "solid": {
+            "base": {
+              "value": "{primitives.color.tint.white.100}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{primitives.color.neutral.base.200}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{primitives.color.neutral.base.300}",
+              "type": "color"
+            }
           },
-          "hover": {
-            "value": "{primitives.color.neutral.base.200}",
-            "type": "color"
+          "subtle": {
+            "base": {
+              "value": "{primitives.color.primary.base.700}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{primitives.color.neutral.base.600}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{primitives.color.neutral.base.500}",
+              "type": "color"
+            }
           },
-          "pressed": {
-            "value": "{primitives.color.neutral.base.300}",
-            "type": "color"
+          "ghost": {
+            "base": {
+              "value": "{primitives.color.primary.base.950}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{primitives.color.neutral.base.900}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{primitives.color.neutral.base.800}",
+              "type": "color"
+            }
+          },
+          "strong": {
+            "base": {
+              "value": "{primitives.color.tint.white.100}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{primitives.color.neutral.base.200}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{primitives.color.neutral.base.300}",
+              "type": "color"
+            }
           }
         },
         "secondary": {
@@ -421,7 +465,7 @@
           "type": "color"
         },
         "link": {
-          "value": "{color.alias.accent.primary.base}",
+          "value": "{color.alias.accent.primary.solid.base}",
           "type": "color"
         }
       },
@@ -619,21 +663,59 @@
       },
       "interactive": {
         "primary": {
-          "bg-default": {
-            "value": "{color.alias.accent.primary.base}",
-            "type": "color"
+          "solid": {
+            "bg-default": {
+              "value": "{color.alias.accent.primary.solid.base}",
+              "type": "color"
+            },
+            "bg-hover": {
+              "value": "{color.alias.accent.primary.solid.hover}",
+              "type": "color"
+            },
+            "bg-pressed": {
+              "value": "{color.alias.accent.primary.solid.pressed}",
+              "type": "color"
+            },
+            "fg-base": {
+              "value": "{color.alias.text.inverse}",
+              "type": "color"
+            }
           },
-          "bg-hover": {
-            "value": "{color.alias.accent.primary.hover}",
-            "type": "color"
+          "subtle": {
+            "bg-default": {
+              "value": "{color.alias.accent.primary.subtle.base}",
+              "type": "color"
+            },
+            "bg-hover": {
+              "value": "{color.alias.accent.primary.subtle.hover}",
+              "type": "color"
+            },
+            "bg-pressed": {
+              "value": "{color.alias.accent.primary.subtle.pressed}",
+              "type": "color"
+            },
+            "fg-base": {
+              "value": "{color.alias.accent.primary.strong.base}",
+              "type": "color"
+            }
           },
-          "bg-pressed": {
-            "value": "{color.alias.accent.primary.pressed}",
-            "type": "color"
-          },
-          "fg-base": {
-            "value": "{color.alias.text.inverse}",
-            "type": "color"
+          "ghost": {
+            "bg-default": {
+              "value": "{color.alias.accent.primary.ghost.base}",
+              "type": "color"
+            },
+            "bg-hover": {
+              "value": "{color.alias.accent.primary.ghost.hover}",
+              "type": "color"
+            },
+            "bg-pressed": {
+              "value": "{color.alias.accent.primary.ghost.pressed}",
+              "type": "color"
+            },
+            "fg-base": {
+              "value": "{color.alias.accent.primary.solid.base}",
+              "type": "color"
+            }
           }
         },
         "secondary": {

@@ -6,5 +6,21 @@
         "type": "boxShadow"
       }
     }
+  },
+  "raidus": {
+    "control": {
+      "lg": {
+        "value": "{primitives.radius.radius-xl}",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "{primitives.radius.radius-lg}",
+        "type": "borderRadius"
+      },
+      "sm": {
+        "value": "{primitives.radius.radius-base}",
+        "type": "borderRadius"
+      }
+    }
   }
 }
