@@ -1,12 +1,28 @@
 {
-  "device": {
-    "min-width": {
-      "value": "1440",
-      "type": "sizing"
+  "sizing": {
+    "device": {
+      "min-width": {
+        "value": "1440",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "1024",
+        "type": "sizing"
+      }
     },
-    "min-height": {
-      "value": "1024",
-      "type": "sizing"
+    "control": {
+      "lg": {
+        "value": "{primitives.sizing.sz-48}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{primitives.sizing.sz-40}",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "{primitives.sizing.sz-32}",
+        "type": "sizing"
+      }
     }
   },
   "typeset": {
