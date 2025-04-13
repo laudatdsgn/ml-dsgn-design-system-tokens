@@ -2,112 +2,112 @@
   "primitives": {
     "sizing": {
       "sz-0": {
-        "value": "0",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "0"
       },
       "sz-4": {
-        "value": "4",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "4"
       },
       "sz-6": {
-        "value": "6",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "6"
       },
       "sz-8": {
-        "value": "8",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "8"
       },
       "sz-12": {
-        "value": "12",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "12"
       },
       "sz-14": {
-        "value": "14",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "14"
       },
       "sz-16": {
-        "value": "16",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "16"
       },
       "sz-20": {
-        "value": "20",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "20"
       },
       "sz-24": {
-        "value": "24",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "24"
       },
       "sz-28": {
-        "value": "28",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "28"
       },
       "sz-32": {
-        "value": "32",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "32"
       },
       "sz-36": {
-        "value": "36",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "36"
       },
       "sz-40": {
-        "value": "40",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "40"
       },
       "sz-44": {
-        "value": "44",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "44"
       },
       "sz-48": {
-        "value": "48",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "48"
       },
       "sz-52": {
-        "value": "52",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "52"
       },
       "sz-56": {
-        "value": "56",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "56"
       },
       "sz-60": {
-        "value": "60",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "60"
       },
       "sz-64": {
-        "value": "64",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "64"
       },
       "sz-68": {
-        "value": "68",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "68"
       },
       "sz-72": {
-        "value": "72",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "72"
       },
       "sz-76": {
-        "value": "76",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "76"
       },
       "sz-80": {
-        "value": "80",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "80"
       },
       "sz-84": {
-        "value": "84",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "84"
       },
       "sz-88": {
-        "value": "88",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "88"
       },
       "sz-92": {
-        "value": "92",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "92"
       },
       "sz-96": {
-        "value": "96",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "96"
       }
     }
   }

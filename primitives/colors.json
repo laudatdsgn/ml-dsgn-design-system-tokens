@@ -4,48 +4,48 @@
       "primary": {
         "base": {
           "50": {
-            "value": "#fafafa",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fafafa"
           },
           "100": {
-            "value": "#f4f4f5",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f4f4f5"
           },
           "200": {
-            "value": "#e4e4e7",
-            "type": "color"
+            "$type": "color",
+            "$value": "#e4e4e7"
           },
           "300": {
-            "value": "#d4d4d8",
-            "type": "color"
+            "$type": "color",
+            "$value": "#d4d4d8"
           },
           "400": {
-            "value": "#a1a1aa",
-            "type": "color"
+            "$type": "color",
+            "$value": "#a1a1aa"
           },
           "500": {
-            "value": "#71717a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#71717a"
           },
           "600": {
-            "value": "#52525b",
-            "type": "color"
+            "$type": "color",
+            "$value": "#52525b"
           },
           "700": {
-            "value": "#3f3f46",
-            "type": "color"
+            "$type": "color",
+            "$value": "#3f3f46"
           },
           "800": {
-            "value": "#27272a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#27272a"
           },
           "900": {
-            "value": "#18181b",
-            "type": "color"
+            "$type": "color",
+            "$value": "#18181b"
           },
           "950": {
-            "value": "#09090b",
-            "type": "color"
+            "$type": "color",
+            "$value": "#09090b"
           }
         },
         "alpha-75": {
@@ -59,8 +59,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.50}"
           },
           "100": {
             "$extensions": {
@@ -72,8 +72,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.100}"
           },
           "200": {
             "$extensions": {
@@ -85,8 +85,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.200}"
           },
           "300": {
             "$extensions": {
@@ -98,8 +98,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.300}"
           },
           "400": {
             "$extensions": {
@@ -111,8 +111,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.400}"
           },
           "500": {
             "$extensions": {
@@ -124,8 +124,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.500}"
           },
           "600": {
             "$extensions": {
@@ -137,8 +137,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.600}"
           },
           "700": {
             "$extensions": {
@@ -150,8 +150,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.700}"
           },
           "800": {
             "$extensions": {
@@ -163,8 +163,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.800}"
           },
           "900": {
             "$extensions": {
@@ -176,8 +176,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.900}"
           },
           "950": {
             "$extensions": {
@@ -189,8 +189,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.950}"
           }
         },
         "alpha-50": {
@@ -204,8 +204,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.50}"
           },
           "100": {
             "$extensions": {
@@ -217,8 +217,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.100}"
           },
           "200": {
             "$extensions": {
@@ -230,8 +230,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.200}"
           },
           "300": {
             "$extensions": {
@@ -243,8 +243,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.300}"
           },
           "400": {
             "$extensions": {
@@ -256,8 +256,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.400}"
           },
           "500": {
             "$extensions": {
@@ -269,8 +269,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.500}"
           },
           "600": {
             "$extensions": {
@@ -282,8 +282,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.600}"
           },
           "700": {
             "$extensions": {
@@ -295,8 +295,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.700}"
           },
           "800": {
             "$extensions": {
@@ -308,8 +308,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.800}"
           },
           "900": {
             "$extensions": {
@@ -321,8 +321,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.900}"
           },
           "950": {
             "$extensions": {
@@ -334,8 +334,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.950}"
           }
         },
         "alpha-25": {
@@ -349,8 +349,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.50}"
           },
           "100": {
             "$extensions": {
@@ -362,8 +362,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.100}"
           },
           "200": {
             "$extensions": {
@@ -375,8 +375,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.200}"
           },
           "300": {
             "$extensions": {
@@ -388,8 +388,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.300}"
           },
           "400": {
             "$extensions": {
@@ -401,8 +401,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.400}"
           },
           "500": {
             "$extensions": {
@@ -414,8 +414,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.500}"
           },
           "600": {
             "$extensions": {
@@ -427,8 +427,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.600}"
           },
           "700": {
             "$extensions": {
@@ -440,8 +440,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.700}"
           },
           "800": {
             "$extensions": {
@@ -453,8 +453,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.800}"
           },
           "900": {
             "$extensions": {
@@ -466,8 +466,8 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.900}"
           },
           "950": {
             "$extensions": {
@@ -479,56 +479,56 @@
                 }
               }
             },
-            "value": "{primitives.color.primary.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.primary.base.950}"
           }
         }
       },
       "neutral": {
         "base": {
           "50": {
-            "value": "#fafafa",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fafafa"
           },
           "100": {
-            "value": "#f5f5f5",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f5f5f5"
           },
           "200": {
-            "value": "#e5e5e5",
-            "type": "color"
+            "$type": "color",
+            "$value": "#e5e5e5"
           },
           "300": {
-            "value": "#d4d4d4",
-            "type": "color"
+            "$type": "color",
+            "$value": "#d4d4d4"
           },
           "400": {
-            "value": "#a3a3a3",
-            "type": "color"
+            "$type": "color",
+            "$value": "#a3a3a3"
           },
           "500": {
-            "value": "#737373",
-            "type": "color"
+            "$type": "color",
+            "$value": "#737373"
           },
           "600": {
-            "value": "#525252",
-            "type": "color"
+            "$type": "color",
+            "$value": "#525252"
           },
           "700": {
-            "value": "#404040",
-            "type": "color"
+            "$type": "color",
+            "$value": "#404040"
           },
           "800": {
-            "value": "#262626",
-            "type": "color"
+            "$type": "color",
+            "$value": "#262626"
           },
           "900": {
-            "value": "#171717",
-            "type": "color"
+            "$type": "color",
+            "$value": "#171717"
           },
           "950": {
-            "value": "#0a0a0a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#0a0a0a"
           }
         },
         "alpha-75": {
@@ -542,8 +542,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.50}"
           },
           "100": {
             "$extensions": {
@@ -555,8 +555,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.100}"
           },
           "200": {
             "$extensions": {
@@ -568,8 +568,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.200}"
           },
           "300": {
             "$extensions": {
@@ -581,8 +581,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.300}"
           },
           "400": {
             "$extensions": {
@@ -594,8 +594,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.400}"
           },
           "500": {
             "$extensions": {
@@ -607,8 +607,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.500}"
           },
           "600": {
             "$extensions": {
@@ -620,8 +620,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.600}"
           },
           "700": {
             "$extensions": {
@@ -633,8 +633,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.700}"
           },
           "800": {
             "$extensions": {
@@ -646,8 +646,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.800}"
           },
           "900": {
             "$extensions": {
@@ -659,8 +659,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.900}"
           },
           "950": {
             "$extensions": {
@@ -672,8 +672,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.950}"
           }
         },
         "alpha-50": {
@@ -687,8 +687,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.50}"
           },
           "100": {
             "$extensions": {
@@ -700,8 +700,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.100}"
           },
           "200": {
             "$extensions": {
@@ -713,8 +713,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.200}"
           },
           "300": {
             "$extensions": {
@@ -726,8 +726,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.300}"
           },
           "400": {
             "$extensions": {
@@ -739,8 +739,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.400}"
           },
           "500": {
             "$extensions": {
@@ -752,8 +752,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.500}"
           },
           "600": {
             "$extensions": {
@@ -765,8 +765,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.600}"
           },
           "700": {
             "$extensions": {
@@ -778,8 +778,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.700}"
           },
           "800": {
             "$extensions": {
@@ -791,8 +791,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.800}"
           },
           "900": {
             "$extensions": {
@@ -804,8 +804,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.900}"
           },
           "950": {
             "$extensions": {
@@ -817,8 +817,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.950}"
           }
         },
         "alpha-25": {
@@ -832,8 +832,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.50}"
           },
           "100": {
             "$extensions": {
@@ -845,8 +845,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.100}"
           },
           "200": {
             "$extensions": {
@@ -858,8 +858,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.200}"
           },
           "300": {
             "$extensions": {
@@ -871,8 +871,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.300}"
           },
           "400": {
             "$extensions": {
@@ -884,8 +884,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.400}"
           },
           "500": {
             "$extensions": {
@@ -897,8 +897,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.500}"
           },
           "600": {
             "$extensions": {
@@ -910,8 +910,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.600}"
           },
           "700": {
             "$extensions": {
@@ -923,8 +923,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.700}"
           },
           "800": {
             "$extensions": {
@@ -936,8 +936,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.800}"
           },
           "900": {
             "$extensions": {
@@ -949,8 +949,8 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.900}"
           },
           "950": {
             "$extensions": {
@@ -962,56 +962,56 @@
                 }
               }
             },
-            "value": "{primitives.color.neutral.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.neutral.base.950}"
           }
         }
       },
       "positive": {
         "base": {
           "50": {
-            "value": "#f0fdf4",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f0fdf4"
           },
           "100": {
-            "value": "#dcfce7",
-            "type": "color"
+            "$type": "color",
+            "$value": "#dcfce7"
           },
           "200": {
-            "value": "#bbf7d0",
-            "type": "color"
+            "$type": "color",
+            "$value": "#bbf7d0"
           },
           "300": {
-            "value": "#86efac",
-            "type": "color"
+            "$type": "color",
+            "$value": "#86efac"
           },
           "400": {
-            "value": "#4ade80",
-            "type": "color"
+            "$type": "color",
+            "$value": "#4ade80"
           },
           "500": {
-            "value": "#22c55e",
-            "type": "color"
+            "$type": "color",
+            "$value": "#22c55e"
           },
           "600": {
-            "value": "#16a34a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#16a34a"
           },
           "700": {
-            "value": "#15803d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#15803d"
           },
           "800": {
-            "value": "#166534",
-            "type": "color"
+            "$type": "color",
+            "$value": "#166534"
           },
           "900": {
-            "value": "#14532d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#14532d"
           },
           "950": {
-            "value": "#052e16",
-            "type": "color"
+            "$type": "color",
+            "$value": "#052e16"
           }
         },
         "alpha-75": {
@@ -1025,8 +1025,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.50}"
           },
           "100": {
             "$extensions": {
@@ -1038,8 +1038,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.100}"
           },
           "200": {
             "$extensions": {
@@ -1051,8 +1051,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.200}"
           },
           "300": {
             "$extensions": {
@@ -1064,8 +1064,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.300}"
           },
           "400": {
             "$extensions": {
@@ -1077,8 +1077,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.400}"
           },
           "500": {
             "$extensions": {
@@ -1090,8 +1090,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.500}"
           },
           "600": {
             "$extensions": {
@@ -1103,8 +1103,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.600}"
           },
           "700": {
             "$extensions": {
@@ -1116,8 +1116,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.700}"
           },
           "800": {
             "$extensions": {
@@ -1129,8 +1129,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.800}"
           },
           "900": {
             "$extensions": {
@@ -1142,8 +1142,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.900}"
           },
           "950": {
             "$extensions": {
@@ -1155,8 +1155,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.950}"
           }
         },
         "alpha-50": {
@@ -1170,8 +1170,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.50}"
           },
           "100": {
             "$extensions": {
@@ -1183,8 +1183,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.100}"
           },
           "200": {
             "$extensions": {
@@ -1196,8 +1196,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.200}"
           },
           "300": {
             "$extensions": {
@@ -1209,8 +1209,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.300}"
           },
           "400": {
             "$extensions": {
@@ -1222,8 +1222,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.400}"
           },
           "500": {
             "$extensions": {
@@ -1235,8 +1235,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.500}"
           },
           "600": {
             "$extensions": {
@@ -1248,8 +1248,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.600}"
           },
           "700": {
             "$extensions": {
@@ -1261,8 +1261,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.700}"
           },
           "800": {
             "$extensions": {
@@ -1274,8 +1274,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.800}"
           },
           "900": {
             "$extensions": {
@@ -1287,8 +1287,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.900}"
           },
           "950": {
             "$extensions": {
@@ -1300,8 +1300,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.950}"
           }
         },
         "alpha-25": {
@@ -1315,8 +1315,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.50}"
           },
           "100": {
             "$extensions": {
@@ -1328,8 +1328,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.100}"
           },
           "200": {
             "$extensions": {
@@ -1341,8 +1341,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.200}"
           },
           "300": {
             "$extensions": {
@@ -1354,8 +1354,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.300}"
           },
           "400": {
             "$extensions": {
@@ -1367,8 +1367,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.400}"
           },
           "500": {
             "$extensions": {
@@ -1380,8 +1380,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.500}"
           },
           "600": {
             "$extensions": {
@@ -1393,8 +1393,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.600}"
           },
           "700": {
             "$extensions": {
@@ -1406,8 +1406,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.700}"
           },
           "800": {
             "$extensions": {
@@ -1419,8 +1419,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.800}"
           },
           "900": {
             "$extensions": {
@@ -1432,8 +1432,8 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.900}"
           },
           "950": {
             "$extensions": {
@@ -1445,56 +1445,56 @@
                 }
               }
             },
-            "value": "{primitives.color.positive.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.positive.base.950}"
           }
         }
       },
       "warn": {
         "base": {
           "50": {
-            "value": "#fffbeb",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fffbeb"
           },
           "100": {
-            "value": "#fef3c7",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fef3c7"
           },
           "200": {
-            "value": "#fde68a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fde68a"
           },
           "300": {
-            "value": "#fcd34d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fcd34d"
           },
           "400": {
-            "value": "#fbbf24",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fbbf24"
           },
           "500": {
-            "value": "#f59e0b",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f59e0b"
           },
           "600": {
-            "value": "#d97706",
-            "type": "color"
+            "$type": "color",
+            "$value": "#d97706"
           },
           "700": {
-            "value": "#b45309",
-            "type": "color"
+            "$type": "color",
+            "$value": "#b45309"
           },
           "800": {
-            "value": "#92400e",
-            "type": "color"
+            "$type": "color",
+            "$value": "#92400e"
           },
           "900": {
-            "value": "#78350f",
-            "type": "color"
+            "$type": "color",
+            "$value": "#78350f"
           },
           "950": {
-            "value": "#451a03",
-            "type": "color"
+            "$type": "color",
+            "$value": "#451a03"
           }
         },
         "alpha-75": {
@@ -1508,8 +1508,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.50}"
           },
           "100": {
             "$extensions": {
@@ -1521,8 +1521,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.100}"
           },
           "200": {
             "$extensions": {
@@ -1534,8 +1534,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.200}"
           },
           "300": {
             "$extensions": {
@@ -1547,8 +1547,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.300}"
           },
           "400": {
             "$extensions": {
@@ -1560,8 +1560,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.400}"
           },
           "500": {
             "$extensions": {
@@ -1573,8 +1573,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.500}"
           },
           "600": {
             "$extensions": {
@@ -1586,8 +1586,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.600}"
           },
           "700": {
             "$extensions": {
@@ -1599,8 +1599,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.700}"
           },
           "800": {
             "$extensions": {
@@ -1612,8 +1612,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.800}"
           },
           "900": {
             "$extensions": {
@@ -1625,8 +1625,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.900}"
           },
           "950": {
             "$extensions": {
@@ -1638,8 +1638,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.950}"
           }
         },
         "alpha-50": {
@@ -1653,8 +1653,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.50}"
           },
           "100": {
             "$extensions": {
@@ -1666,8 +1666,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.100}"
           },
           "200": {
             "$extensions": {
@@ -1679,8 +1679,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.200}"
           },
           "300": {
             "$extensions": {
@@ -1692,8 +1692,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.300}"
           },
           "400": {
             "$extensions": {
@@ -1705,8 +1705,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.400}"
           },
           "500": {
             "$extensions": {
@@ -1718,8 +1718,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.500}"
           },
           "600": {
             "$extensions": {
@@ -1731,8 +1731,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.600}"
           },
           "700": {
             "$extensions": {
@@ -1744,8 +1744,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.700}"
           },
           "800": {
             "$extensions": {
@@ -1757,8 +1757,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.800}"
           },
           "900": {
             "$extensions": {
@@ -1770,8 +1770,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.900}"
           },
           "950": {
             "$extensions": {
@@ -1783,8 +1783,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.950}"
           }
         },
         "alpha-25": {
@@ -1798,8 +1798,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.50}"
           },
           "100": {
             "$extensions": {
@@ -1811,8 +1811,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.100}"
           },
           "200": {
             "$extensions": {
@@ -1824,8 +1824,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.200}"
           },
           "300": {
             "$extensions": {
@@ -1837,8 +1837,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.300}"
           },
           "400": {
             "$extensions": {
@@ -1850,8 +1850,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.400}"
           },
           "500": {
             "$extensions": {
@@ -1863,8 +1863,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.500}"
           },
           "600": {
             "$extensions": {
@@ -1876,8 +1876,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.600}"
           },
           "700": {
             "$extensions": {
@@ -1889,8 +1889,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.700}"
           },
           "800": {
             "$extensions": {
@@ -1902,8 +1902,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.800}"
           },
           "900": {
             "$extensions": {
@@ -1915,8 +1915,8 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.900}"
           },
           "950": {
             "$extensions": {
@@ -1928,56 +1928,56 @@
                 }
               }
             },
-            "value": "{primitives.color.warn.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.warn.base.950}"
           }
         }
       },
       "attention": {
         "base": {
           "50": {
-            "value": "#fef2f2",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fef2f2"
           },
           "100": {
-            "value": "#fee2e2",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fee2e2"
           },
           "200": {
-            "value": "#fecaca",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fecaca"
           },
           "300": {
-            "value": "#fca5a5",
-            "type": "color"
+            "$type": "color",
+            "$value": "#fca5a5"
           },
           "400": {
-            "value": "#f87171",
-            "type": "color"
+            "$type": "color",
+            "$value": "#f87171"
           },
           "500": {
-            "value": "#ef4444",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ef4444"
           },
           "600": {
-            "value": "#dc2626",
-            "type": "color"
+            "$type": "color",
+            "$value": "#dc2626"
           },
           "700": {
-            "value": "#b91c1c",
-            "type": "color"
+            "$type": "color",
+            "$value": "#b91c1c"
           },
           "800": {
-            "value": "#991b1b",
-            "type": "color"
+            "$type": "color",
+            "$value": "#991b1b"
           },
           "900": {
-            "value": "#7f1d1d",
-            "type": "color"
+            "$type": "color",
+            "$value": "#7f1d1d"
           },
           "950": {
-            "value": "#450a0a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#450a0a"
           }
         },
         "alpha-75": {
@@ -1991,8 +1991,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.50}"
           },
           "100": {
             "$extensions": {
@@ -2004,8 +2004,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.100}"
           },
           "200": {
             "$extensions": {
@@ -2017,8 +2017,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.200}"
           },
           "300": {
             "$extensions": {
@@ -2030,8 +2030,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.300}"
           },
           "400": {
             "$extensions": {
@@ -2043,8 +2043,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.400}"
           },
           "500": {
             "$extensions": {
@@ -2056,8 +2056,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.500}"
           },
           "600": {
             "$extensions": {
@@ -2069,8 +2069,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.600}"
           },
           "700": {
             "$extensions": {
@@ -2082,8 +2082,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.700}"
           },
           "800": {
             "$extensions": {
@@ -2095,8 +2095,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.800}"
           },
           "900": {
             "$extensions": {
@@ -2108,8 +2108,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.900}"
           },
           "950": {
             "$extensions": {
@@ -2121,8 +2121,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.950}"
           }
         },
         "alpha-50": {
@@ -2136,8 +2136,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.50}"
           },
           "100": {
             "$extensions": {
@@ -2149,8 +2149,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.100}"
           },
           "200": {
             "$extensions": {
@@ -2162,8 +2162,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.200}"
           },
           "300": {
             "$extensions": {
@@ -2175,8 +2175,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.300}"
           },
           "400": {
             "$extensions": {
@@ -2188,8 +2188,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.400}"
           },
           "500": {
             "$extensions": {
@@ -2201,8 +2201,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.500}"
           },
           "600": {
             "$extensions": {
@@ -2214,8 +2214,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.600}"
           },
           "700": {
             "$extensions": {
@@ -2227,8 +2227,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.700}"
           },
           "800": {
             "$extensions": {
@@ -2240,8 +2240,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.800}"
           },
           "900": {
             "$extensions": {
@@ -2253,8 +2253,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.900}"
           },
           "950": {
             "$extensions": {
@@ -2266,8 +2266,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.950}"
           }
         },
         "alpha-25": {
@@ -2281,8 +2281,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.50}"
           },
           "100": {
             "$extensions": {
@@ -2294,8 +2294,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.100}"
           },
           "200": {
             "$extensions": {
@@ -2307,8 +2307,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.200}"
           },
           "300": {
             "$extensions": {
@@ -2320,8 +2320,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.300}"
           },
           "400": {
             "$extensions": {
@@ -2333,8 +2333,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.400}"
           },
           "500": {
             "$extensions": {
@@ -2346,8 +2346,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.500}"
           },
           "600": {
             "$extensions": {
@@ -2359,8 +2359,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.600}"
           },
           "700": {
             "$extensions": {
@@ -2372,8 +2372,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.700}"
           },
           "800": {
             "$extensions": {
@@ -2385,8 +2385,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.800}"
           },
           "900": {
             "$extensions": {
@@ -2398,8 +2398,8 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.900}"
           },
           "950": {
             "$extensions": {
@@ -2411,56 +2411,56 @@
                 }
               }
             },
-            "value": "{primitives.color.attention.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.attention.base.950}"
           }
         }
       },
       "informative": {
         "base": {
           "50": {
-            "value": "#eff6ff",
-            "type": "color"
+            "$type": "color",
+            "$value": "#eff6ff"
           },
           "100": {
-            "value": "#dbeafe",
-            "type": "color"
+            "$type": "color",
+            "$value": "#dbeafe"
           },
           "200": {
-            "value": "#bfdbfe",
-            "type": "color"
+            "$type": "color",
+            "$value": "#bfdbfe"
           },
           "300": {
-            "value": "#93c5fd",
-            "type": "color"
+            "$type": "color",
+            "$value": "#93c5fd"
           },
           "400": {
-            "value": "#60a5fa",
-            "type": "color"
+            "$type": "color",
+            "$value": "#60a5fa"
           },
           "500": {
-            "value": "#3b82f6",
-            "type": "color"
+            "$type": "color",
+            "$value": "#3b82f6"
           },
           "600": {
-            "value": "#2563eb",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2563eb"
           },
           "700": {
-            "value": "#1d4ed8",
-            "type": "color"
+            "$type": "color",
+            "$value": "#1d4ed8"
           },
           "800": {
-            "value": "#1e40af",
-            "type": "color"
+            "$type": "color",
+            "$value": "#1e40af"
           },
           "900": {
-            "value": "#1e3a8a",
-            "type": "color"
+            "$type": "color",
+            "$value": "#1e3a8a"
           },
           "950": {
-            "value": "#172554",
-            "type": "color"
+            "$type": "color",
+            "$value": "#172554"
           }
         },
         "alpha-75": {
@@ -2474,8 +2474,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.50}"
           },
           "100": {
             "$extensions": {
@@ -2487,8 +2487,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.100}"
           },
           "200": {
             "$extensions": {
@@ -2500,8 +2500,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.200}"
           },
           "300": {
             "$extensions": {
@@ -2513,8 +2513,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.300}"
           },
           "400": {
             "$extensions": {
@@ -2526,8 +2526,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.400}"
           },
           "500": {
             "$extensions": {
@@ -2539,8 +2539,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.500}"
           },
           "600": {
             "$extensions": {
@@ -2552,8 +2552,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.600}"
           },
           "700": {
             "$extensions": {
@@ -2565,8 +2565,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.700}"
           },
           "800": {
             "$extensions": {
@@ -2578,8 +2578,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.800}"
           },
           "900": {
             "$extensions": {
@@ -2591,8 +2591,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.900}"
           },
           "950": {
             "$extensions": {
@@ -2604,8 +2604,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.950}"
           }
         },
         "alpha-50": {
@@ -2619,8 +2619,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.50}"
           },
           "100": {
             "$extensions": {
@@ -2632,8 +2632,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.100}"
           },
           "200": {
             "$extensions": {
@@ -2645,8 +2645,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.200}"
           },
           "300": {
             "$extensions": {
@@ -2658,8 +2658,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.300}"
           },
           "400": {
             "$extensions": {
@@ -2671,8 +2671,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.400}"
           },
           "500": {
             "$extensions": {
@@ -2684,8 +2684,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.500}"
           },
           "600": {
             "$extensions": {
@@ -2697,8 +2697,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.600}"
           },
           "700": {
             "$extensions": {
@@ -2710,8 +2710,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.700}"
           },
           "800": {
             "$extensions": {
@@ -2723,8 +2723,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.800}"
           },
           "900": {
             "$extensions": {
@@ -2736,8 +2736,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.900}"
           },
           "950": {
             "$extensions": {
@@ -2749,8 +2749,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.950}"
           }
         },
         "alpha-25": {
@@ -2764,8 +2764,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.50}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.50}"
           },
           "100": {
             "$extensions": {
@@ -2777,8 +2777,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.100}"
           },
           "200": {
             "$extensions": {
@@ -2790,8 +2790,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.200}"
           },
           "300": {
             "$extensions": {
@@ -2803,8 +2803,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.300}"
           },
           "400": {
             "$extensions": {
@@ -2816,8 +2816,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.400}"
           },
           "500": {
             "$extensions": {
@@ -2829,8 +2829,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.500}"
           },
           "600": {
             "$extensions": {
@@ -2842,8 +2842,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.600}"
           },
           "700": {
             "$extensions": {
@@ -2855,8 +2855,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.700}"
           },
           "800": {
             "$extensions": {
@@ -2868,8 +2868,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.800}"
           },
           "900": {
             "$extensions": {
@@ -2881,8 +2881,8 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.900}"
           },
           "950": {
             "$extensions": {
@@ -2894,94 +2894,94 @@
                 }
               }
             },
-            "value": "{primitives.color.informative.base.950}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{primitives.color.informative.base.950}"
           }
         }
       },
       "tint": {
         "white": {
           "10": {
-            "value": "rgba(255,255,255,0.1)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255,255,255,0.1)"
           },
           "20": {
-            "value": "rgba(255,255,255,0.2)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255,255,255,0.2)"
           },
           "30": {
-            "value": "rgba(255,255,255,0.3)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255,255,255,0.3)"
           },
           "40": {
-            "value": "rgba(255,255,255,0.4)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255,255,255,0.4)"
           },
           "50": {
-            "value": "rgba(255,255,255,0.5)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255,255,255,0.5)"
           },
           "60": {
-            "value": "rgba(255,255,255,0.6)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255,255,255,0.6)"
           },
           "70": {
-            "value": "rgba(255,255,255,0.7)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255,255,255,0.7)"
           },
           "80": {
-            "value": "rgba(255,255,255,0.8)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255,255,255,0.8)"
           },
           "90": {
-            "value": "rgba(255,255,255,0.9)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255,255,255,0.9)"
           },
           "100": {
-            "value": "rgba(255,255,255,1)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255,255,255,1)"
           }
         },
         "black": {
           "10": {
-            "value": "rgba(0,0,0,0.1)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,0.1)"
           },
           "20": {
-            "value": "rgba(0,0,0,0.2)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,0.2)"
           },
           "30": {
-            "value": "rgba(0,0,0,0.3)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,0.3)"
           },
           "40": {
-            "value": "rgba(0,0,0,0.4)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,0.4)"
           },
           "50": {
-            "value": "rgba(0,0,0,0.5)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,0.5)"
           },
           "60": {
-            "value": "rgba(0,0,0,0.6)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,0.6)"
           },
           "70": {
-            "value": "rgba(0,0,0,0.7)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,0.7)"
           },
           "80": {
-            "value": "rgba(0,0,0,0.8)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,0.8)"
           },
           "90": {
-            "value": "rgba(0,0,0,0.9)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,0.9)"
           },
           "100": {
-            "value": "rgba(0,0,0,1)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,1)"
           }
         }
       }

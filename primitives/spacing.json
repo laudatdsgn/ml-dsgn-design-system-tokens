@@ -2,112 +2,112 @@
   "primitives": {
     "spacing": {
       "sp-0": {
-        "value": "0",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "0"
       },
       "sp-4": {
-        "value": "4",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "4"
       },
       "sp-6": {
-        "value": "6",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "6"
       },
       "sp-8": {
-        "value": "8",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "8"
       },
       "sp-12": {
-        "value": "12",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "12"
       },
       "sp-14": {
-        "value": "14",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "14"
       },
       "sp-16": {
-        "value": "16",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "16"
       },
       "sp-20": {
-        "value": "20",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "20"
       },
       "sp-24": {
-        "value": "24",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "24"
       },
       "sp-28": {
-        "value": "28",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "28"
       },
       "sp-32": {
-        "value": "32",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "32"
       },
       "sp-36": {
-        "value": "36",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "36"
       },
       "sp-40": {
-        "value": "40",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "40"
       },
       "sp-44": {
-        "value": "44",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "44"
       },
       "sp-48": {
-        "value": "48",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "48"
       },
       "sp-52": {
-        "value": "52",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "52"
       },
       "sp-56": {
-        "value": "56",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "56"
       },
       "sp-60": {
-        "value": "60",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "60"
       },
       "sp-64": {
-        "value": "64",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "64"
       },
       "sp-68": {
-        "value": "68",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "68"
       },
       "sp-72": {
-        "value": "72",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "72"
       },
       "sp-76": {
-        "value": "76",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "76"
       },
       "sp-80": {
-        "value": "80",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "80"
       },
       "sp-84": {
-        "value": "84",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "84"
       },
       "sp-88": {
-        "value": "88",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "88"
       },
       "sp-92": {
-        "value": "92",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "92"
       },
       "sp-96": {
-        "value": "96",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "96"
       }
     }
   }

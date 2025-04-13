@@ -2,62 +2,62 @@
   "primitives": {
     "background-blur": {
       "blur-none": {
-        "value": "0px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "0px"
       },
       "blur-sm": {
-        "value": "4px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "4px"
       },
       "blur-md": {
-        "value": "8px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "8px"
       },
       "blur-lg": {
-        "value": "12px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "12px"
       },
       "blur-xl": {
-        "value": "16px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "16px"
       },
       "blur-2xl": {
-        "value": "24px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "24px"
       },
       "blur-3xl": {
-        "value": "40px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "40px"
       }
     },
     "layer-blur": {
       "blur-none": {
-        "value": "0px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "0px"
       },
       "blur-sm": {
-        "value": "4px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "4px"
       },
       "blur-md": {
-        "value": "8px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "8px"
       },
       "blur-lg": {
-        "value": "12px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "12px"
       },
       "blur-xl": {
-        "value": "16px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "16px"
       },
       "blur-2xl": {
-        "value": "24px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "24px"
       },
       "blur-3xl": {
-        "value": "40px",
-        "type": "dimension"
+        "$type": "dimension",
+        "$value": "40px"
       }
     }
   }
