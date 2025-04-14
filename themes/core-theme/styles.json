@@ -2,24 +2,24 @@
   "styles": {
     "drop-shadow": {
       "dropdown": {
-        "$type": "boxShadow",
-        "$value": "{primitives.drop-shadow.shadow-md}"
+        "value": "{primitives.drop-shadow.shadow-md}",
+        "type": "boxShadow"
       }
     }
   },
   "raidus": {
     "control": {
       "lg": {
-        "$type": "borderRadius",
-        "$value": "{primitives.radius.radius-xl}"
+        "value": "{primitives.radius.radius-xl}",
+        "type": "borderRadius"
       },
       "md": {
-        "$type": "borderRadius",
-        "$value": "{primitives.radius.radius-lg}"
+        "value": "{primitives.radius.radius-lg}",
+        "type": "borderRadius"
       },
       "sm": {
-        "$type": "borderRadius",
-        "$value": "{primitives.radius.radius-base}"
+        "value": "{primitives.radius.radius-base}",
+        "type": "borderRadius"
       }
     }
   }

@@ -2,319 +2,319 @@
   "alias": {
     "background": {
       "default": {
-        "$type": "other",
-        "$value": "{base.gray.50}"
+        "value": "{base.gray.50}",
+        "type": "other"
       },
       "muted": {
-        "$type": "other",
-        "$value": "{base.gray.100}"
+        "value": "{base.gray.100}",
+        "type": "other"
       },
       "inverse": {
-        "$type": "other",
-        "$value": "{base.gray.900}"
+        "value": "{base.gray.900}",
+        "type": "other"
       }
     },
     "surface": {
       "default": {
-        "$type": "other",
-        "$value": "{base.gray.0}"
+        "value": "{base.gray.0}",
+        "type": "other"
       },
       "elevated": {
-        "$type": "other",
-        "$value": "{base.gray.50}"
+        "value": "{base.gray.50}",
+        "type": "other"
       },
       "overlay": {
-        "$type": "other",
-        "$value": "rgba(0,0,0,0.5)"
+        "value": "rgba(0,0,0,0.5)",
+        "type": "other"
       }
     },
     "text": {
       "primary": {
-        "$type": "other",
-        "$value": "{base.gray.900}"
+        "value": "{base.gray.900}",
+        "type": "other"
       },
       "secondary": {
-        "$type": "other",
-        "$value": "{base.gray.700}"
+        "value": "{base.gray.700}",
+        "type": "other"
       },
       "muted": {
-        "$type": "other",
-        "$value": "{base.gray.400}"
+        "value": "{base.gray.400}",
+        "type": "other"
       },
       "inverse": {
-        "$type": "other",
-        "$value": "{base.gray.0}"
+        "value": "{base.gray.0}",
+        "type": "other"
       }
     },
     "border": {
       "default": {
-        "$type": "other",
-        "$value": "{base.gray.200}"
+        "value": "{base.gray.200}",
+        "type": "other"
       },
       "subtle": {
-        "$type": "other",
-        "$value": "{base.gray.100}"
+        "value": "{base.gray.100}",
+        "type": "other"
       },
       "strong": {
-        "$type": "other",
-        "$value": "{base.gray.300}"
+        "value": "{base.gray.300}",
+        "type": "other"
       },
       "focus": {
-        "$type": "other",
-        "$value": "{base.blue.500}"
+        "value": "{base.blue.500}",
+        "type": "other"
       }
     },
     "accent": {
       "primary": {
-        "$type": "other",
-        "$value": "{base.blue.500}"
+        "value": "{base.blue.500}",
+        "type": "other"
       },
       "primary-hover": {
-        "$type": "other",
-        "$value": "{base.blue.600}"
+        "value": "{base.blue.600}",
+        "type": "other"
       },
       "secondary": {
-        "$type": "other",
-        "$value": "{base.blue.300}"
+        "value": "{base.blue.300}",
+        "type": "other"
       },
       "success": {
-        "$type": "other",
-        "$value": "{base.green.500}"
+        "value": "{base.green.500}",
+        "type": "other"
       },
       "success-subtle": {
-        "$type": "other",
-        "$value": "{base.green.50}"
+        "value": "{base.green.50}",
+        "type": "other"
       },
       "success-strong": {
-        "$type": "other",
-        "$value": "{base.green.700}"
+        "value": "{base.green.700}",
+        "type": "other"
       },
       "error": {
-        "$type": "other",
-        "$value": "{base.red.500}"
+        "value": "{base.red.500}",
+        "type": "other"
       },
       "error-subtle": {
-        "$type": "other",
-        "$value": "{base.red.50}"
+        "value": "{base.red.50}",
+        "type": "other"
       },
       "error-strong": {
-        "$type": "other",
-        "$value": "{base.red.700}"
+        "value": "{base.red.700}",
+        "type": "other"
       },
       "warning": {
-        "$type": "other",
-        "$value": "{base.yellow.500}"
+        "value": "{base.yellow.500}",
+        "type": "other"
       },
       "warning-subtle": {
-        "$type": "other",
-        "$value": "{base.yellow.50}"
+        "value": "{base.yellow.50}",
+        "type": "other"
       },
       "warning-strong": {
-        "$type": "other",
-        "$value": "{base.yellow.700}"
+        "value": "{base.yellow.700}",
+        "type": "other"
       },
       "info": {
-        "$type": "other",
-        "$value": "{base.blue.400}"
+        "value": "{base.blue.400}",
+        "type": "other"
       },
       "info-subtle": {
-        "$type": "other",
-        "$value": "{base.blue.50}"
+        "value": "{base.blue.50}",
+        "type": "other"
       },
       "info-strong": {
-        "$type": "other",
-        "$value": "{base.blue.700}"
+        "value": "{base.blue.700}",
+        "type": "other"
       }
     }
   },
   "semantic": {
     "text": {
       "primary": {
-        "$type": "other",
-        "$value": "{alias.text.primary}"
+        "value": "{alias.text.primary}",
+        "type": "other"
       },
       "secondary": {
-        "$type": "other",
-        "$value": "{alias.text.secondary}"
+        "value": "{alias.text.secondary}",
+        "type": "other"
       },
       "muted": {
-        "$type": "other",
-        "$value": "{alias.text.muted}"
+        "value": "{alias.text.muted}",
+        "type": "other"
       },
       "inverse": {
-        "$type": "other",
-        "$value": "{alias.text.inverse}"
+        "value": "{alias.text.inverse}",
+        "type": "other"
       },
       "link": {
-        "$type": "other",
-        "$value": "{alias.accent.primary}"
+        "value": "{alias.accent.primary}",
+        "type": "other"
       }
     },
     "icon": {
       "primary": {
-        "$type": "other",
-        "$value": "{alias.text.primary}"
+        "value": "{alias.text.primary}",
+        "type": "other"
       },
       "secondary": {
-        "$type": "other",
-        "$value": "{alias.text.secondary}"
+        "value": "{alias.text.secondary}",
+        "type": "other"
       },
       "inverse": {
-        "$type": "other",
-        "$value": "{alias.text.inverse}"
+        "value": "{alias.text.inverse}",
+        "type": "other"
       }
     },
     "background": {
       "canvas": {
-        "$type": "other",
-        "$value": "{alias.background.default}"
+        "value": "{alias.background.default}",
+        "type": "other"
       },
       "subtle": {
-        "$type": "other",
-        "$value": "{alias.background.muted}"
+        "value": "{alias.background.muted}",
+        "type": "other"
       },
       "inverse": {
-        "$type": "other",
-        "$value": "{alias.background.inverse}"
+        "value": "{alias.background.inverse}",
+        "type": "other"
       }
     },
     "surface": {
       "base": {
-        "$type": "other",
-        "$value": "{alias.surface.default}"
+        "value": "{alias.surface.default}",
+        "type": "other"
       },
       "elevated": {
-        "$type": "other",
-        "$value": "{alias.surface.elevated}"
+        "value": "{alias.surface.elevated}",
+        "type": "other"
       },
       "inverse": {
-        "$type": "other",
-        "$value": "{alias.background.inverse}"
+        "value": "{alias.background.inverse}",
+        "type": "other"
       },
       "overlay": {
-        "$type": "other",
-        "$value": "{alias.surface.overlay}"
+        "value": "{alias.surface.overlay}",
+        "type": "other"
       }
     },
     "border": {
       "default": {
-        "$type": "other",
-        "$value": "{alias.border.default}"
+        "value": "{alias.border.default}",
+        "type": "other"
       },
       "subtle": {
-        "$type": "other",
-        "$value": "{alias.border.subtle}"
+        "value": "{alias.border.subtle}",
+        "type": "other"
       },
       "strong": {
-        "$type": "other",
-        "$value": "{alias.border.strong}"
+        "value": "{alias.border.strong}",
+        "type": "other"
       },
       "focus": {
-        "$type": "other",
-        "$value": "{alias.border.focus}"
+        "value": "{alias.border.focus}",
+        "type": "other"
       },
       "inverse": {
-        "$type": "other",
-        "$value": "{alias.text.inverse}"
+        "value": "{alias.text.inverse}",
+        "type": "other"
       }
     },
     "interactive": {
       "focus-ring": {
-        "$type": "other",
-        "$value": "{alias.border.focus}"
+        "value": "{alias.border.focus}",
+        "type": "other"
       },
       "hover-highlight": {
-        "$type": "other",
-        "$value": "{alias.background.muted}"
+        "value": "{alias.background.muted}",
+        "type": "other"
       },
       "active": {
-        "$type": "other",
-        "$value": "{alias.background.inverse}"
+        "value": "{alias.background.inverse}",
+        "type": "other"
       }
     },
     "button": {
       "primary": {
         "background": {
-          "$type": "other",
-          "$value": "{alias.accent.primary}"
+          "value": "{alias.accent.primary}",
+          "type": "other"
         },
         "text": {
-          "$type": "other",
-          "$value": "{alias.text.inverse}"
+          "value": "{alias.text.inverse}",
+          "type": "other"
         },
         "hover": {
-          "$type": "other",
-          "$value": "{alias.accent.primary-hover}"
+          "value": "{alias.accent.primary-hover}",
+          "type": "other"
         },
         "disabled": {
           "background": {
-            "$type": "other",
-            "$value": "{alias.background.muted}"
+            "value": "{alias.background.muted}",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.text.muted}"
+            "value": "{alias.text.muted}",
+            "type": "other"
           }
         }
       },
       "secondary": {
         "background": {
-          "$type": "other",
-          "$value": "{alias.surface.default}"
+          "value": "{alias.surface.default}",
+          "type": "other"
         },
         "text": {
-          "$type": "other",
-          "$value": "{alias.text.primary}"
+          "value": "{alias.text.primary}",
+          "type": "other"
         },
         "hover": {
-          "$type": "other",
-          "$value": "{alias.background.muted}"
+          "value": "{alias.background.muted}",
+          "type": "other"
         },
         "border": {
-          "$type": "other",
-          "$value": "{alias.border.default}"
+          "value": "{alias.border.default}",
+          "type": "other"
         },
         "disabled": {
           "background": {
-            "$type": "other",
-            "$value": "{alias.background.muted}"
+            "value": "{alias.background.muted}",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.text.muted}"
+            "value": "{alias.text.muted}",
+            "type": "other"
           }
         }
       }
     },
     "input": {
       "background": {
-        "$type": "other",
-        "$value": "{alias.surface.default}"
+        "value": "{alias.surface.default}",
+        "type": "other"
       },
       "text": {
-        "$type": "other",
-        "$value": "{alias.text.primary}"
+        "value": "{alias.text.primary}",
+        "type": "other"
       },
       "border": {
-        "$type": "other",
-        "$value": "{alias.border.default}"
+        "value": "{alias.border.default}",
+        "type": "other"
       },
       "placeholder": {
-        "$type": "other",
-        "$value": "{alias.text.muted}"
+        "value": "{alias.text.muted}",
+        "type": "other"
       },
       "focus-border": {
-        "$type": "other",
-        "$value": "{alias.border.focus}"
+        "value": "{alias.border.focus}",
+        "type": "other"
       },
       "disabled": {
         "background": {
-          "$type": "other",
-          "$value": "{alias.background.muted}"
+          "value": "{alias.background.muted}",
+          "type": "other"
         },
         "text": {
-          "$type": "other",
-          "$value": "{alias.text.muted}"
+          "value": "{alias.text.muted}",
+          "type": "other"
         }
       }
     },
@@ -322,144 +322,144 @@
       "success": {
         "solid": {
           "background": {
-            "$type": "other",
-            "$value": "{alias.accent.success}"
+            "value": "{alias.accent.success}",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.text.inverse}"
+            "value": "{alias.text.inverse}",
+            "type": "other"
           }
         },
         "subtle": {
           "background": {
-            "$type": "other",
-            "$value": "{alias.accent.success-subtle}"
+            "value": "{alias.accent.success-subtle}",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.accent.success-strong}"
+            "value": "{alias.accent.success-strong}",
+            "type": "other"
           }
         },
         "outline": {
           "background": {
-            "$type": "other",
-            "$value": "transparent"
+            "value": "transparent",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.accent.success}"
+            "value": "{alias.accent.success}",
+            "type": "other"
           },
           "border": {
-            "$type": "other",
-            "$value": "{alias.accent.success}"
+            "value": "{alias.accent.success}",
+            "type": "other"
           }
         }
       },
       "error": {
         "solid": {
           "background": {
-            "$type": "other",
-            "$value": "{alias.accent.error}"
+            "value": "{alias.accent.error}",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.text.inverse}"
+            "value": "{alias.text.inverse}",
+            "type": "other"
           }
         },
         "subtle": {
           "background": {
-            "$type": "other",
-            "$value": "{alias.accent.error-subtle}"
+            "value": "{alias.accent.error-subtle}",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.accent.error-strong}"
+            "value": "{alias.accent.error-strong}",
+            "type": "other"
           }
         },
         "outline": {
           "background": {
-            "$type": "other",
-            "$value": "transparent"
+            "value": "transparent",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.accent.error}"
+            "value": "{alias.accent.error}",
+            "type": "other"
           },
           "border": {
-            "$type": "other",
-            "$value": "{alias.accent.error}"
+            "value": "{alias.accent.error}",
+            "type": "other"
           }
         }
       },
       "warning": {
         "solid": {
           "background": {
-            "$type": "other",
-            "$value": "{alias.accent.warning}"
+            "value": "{alias.accent.warning}",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.text.inverse}"
+            "value": "{alias.text.inverse}",
+            "type": "other"
           }
         },
         "subtle": {
           "background": {
-            "$type": "other",
-            "$value": "{alias.accent.warning-subtle}"
+            "value": "{alias.accent.warning-subtle}",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.accent.warning-strong}"
+            "value": "{alias.accent.warning-strong}",
+            "type": "other"
           }
         },
         "outline": {
           "background": {
-            "$type": "other",
-            "$value": "transparent"
+            "value": "transparent",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.accent.warning}"
+            "value": "{alias.accent.warning}",
+            "type": "other"
           },
           "border": {
-            "$type": "other",
-            "$value": "{alias.accent.warning}"
+            "value": "{alias.accent.warning}",
+            "type": "other"
           }
         }
       },
       "info": {
         "solid": {
           "background": {
-            "$type": "other",
-            "$value": "{alias.accent.info}"
+            "value": "{alias.accent.info}",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.text.inverse}"
+            "value": "{alias.text.inverse}",
+            "type": "other"
           }
         },
         "subtle": {
           "background": {
-            "$type": "other",
-            "$value": "{alias.accent.info-subtle}"
+            "value": "{alias.accent.info-subtle}",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.accent.info-strong}"
+            "value": "{alias.accent.info-strong}",
+            "type": "other"
           }
         },
         "outline": {
           "background": {
-            "$type": "other",
-            "$value": "transparent"
+            "value": "transparent",
+            "type": "other"
           },
           "text": {
-            "$type": "other",
-            "$value": "{alias.accent.info}"
+            "value": "{alias.accent.info}",
+            "type": "other"
           },
           "border": {
-            "$type": "other",
-            "$value": "{alias.accent.info}"
+            "value": "{alias.accent.info}",
+            "type": "other"
           }
         }
       }

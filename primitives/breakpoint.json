@@ -2,29 +2,29 @@
   "primitives": {
     "breakpoint": {
       "breakpoint-sm": {
-        "$type": "sizing",
-        "$value": "640",
-        "$description": "Small devices (phones)"
+        "value": "640",
+        "description": "Small devices (phones)",
+        "type": "sizing"
       },
       "breakpoint-md": {
-        "$type": "sizing",
-        "$value": "768",
-        "$description": "Tablets"
+        "value": "768",
+        "description": "Tablets",
+        "type": "sizing"
       },
       "breakpoint-lg": {
-        "$type": "sizing",
-        "$value": "1024",
-        "$description": "Small laptops/desktops"
+        "value": "1024",
+        "description": "Small laptops/desktops",
+        "type": "sizing"
       },
       "breakpoint-xl": {
-        "$type": "sizing",
-        "$value": "1280",
-        "$description": "Medium laptops/desktops"
+        "value": "1280",
+        "description": "Medium laptops/desktops",
+        "type": "sizing"
       },
       "breakpoint-2xl": {
-        "$type": "sizing",
-        "$value": "1536",
-        "$description": "Large laptops/desktops"
+        "value": "1536",
+        "description": "Large laptops/desktops",
+        "type": "sizing"
       }
     }
   }
