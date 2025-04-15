@@ -403,15 +403,15 @@
           },
           "subtle": {
             "base": {
-              "value": "{primitives.color.neutral.base.400}",
+              "value": "{primitives.color.neutral.base.300}",
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.neutral.base.500}",
+              "value": "{primitives.color.neutral.base.400}",
               "type": "color"
             },
             "pressed": {
-              "value": "{primitives.color.neutral.base.600}",
+              "value": "{primitives.color.neutral.base.500}",
               "type": "color"
             }
           },
