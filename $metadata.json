@@ -19,6 +19,8 @@
     "themes/core-theme/responsive.mobile",
     "themes/---------------",
     "themes/black-theme/mode.light",
-    "themes/black-theme/mode.dark"
+    "themes/black-theme/mode.dark",
+    "themes/custom-theme",
+    "mode.light-new"
   ]
 }
