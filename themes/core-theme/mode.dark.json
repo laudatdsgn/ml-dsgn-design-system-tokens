@@ -85,15 +85,15 @@
         "primary": {
           "solid": {
             "base": {
-              "value": "{primitives.color.tint.white.100}",
+              "value": "{primitives.color.primary.base.500}",
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.neutral.base.200}",
+              "value": "{primitives.color.primary.base.600}",
               "type": "color"
             },
             "pressed": {
-              "value": "{primitives.color.neutral.base.300}",
+              "value": "{primitives.color.primary.base.700}",
               "type": "color"
             }
           },
@@ -103,11 +103,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.neutral.base.600}",
+              "value": "{primitives.color.primary.base.600}",
               "type": "color"
             },
             "pressed": {
-              "value": "{primitives.color.neutral.base.500}",
+              "value": "{primitives.color.primary.base.500}",
               "type": "color"
             }
           },
@@ -117,25 +117,25 @@
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.neutral.base.800}",
+              "value": "{primitives.color.primary.base.900}",
               "type": "color"
             },
             "pressed": {
-              "value": "{primitives.color.neutral.base.700}",
+              "value": "{primitives.color.primary.base.800}",
               "type": "color"
             }
           },
           "strong": {
             "base": {
-              "value": "{primitives.color.tint.white.100}",
+              "value": "{primitives.color.primary.base.400}",
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.neutral.base.200}",
+              "value": "{primitives.color.primary.base.300}",
               "type": "color"
             },
             "pressed": {
-              "value": "{primitives.color.neutral.base.300}",
+              "value": "{primitives.color.primary.base.200}",
               "type": "color"
             }
           }
@@ -659,6 +659,14 @@
         "fg-base": {
           "value": "{color.alias.text.muted}",
           "type": "color"
+        },
+        "bg-primary": {
+          "value": "{primitives.color.primary.alpha-75.950}",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "{primitives.color.primary.base.700}",
+          "type": "color"
         }
       },
       "interactive": {
@@ -677,7 +685,7 @@
               "type": "color"
             },
             "fg-base": {
-              "value": "{color.alias.text.inverse}",
+              "value": "{color.alias.text.primary}",
               "type": "color"
             }
           },
@@ -751,7 +759,7 @@
               "type": "color"
             },
             "fg-base": {
-              "value": "{color.alias.text.inverse}",
+              "value": "{color.alias.text.primary}",
               "type": "color"
             }
           },
@@ -807,7 +815,7 @@
               "type": "color"
             },
             "fg-base": {
-              "value": "{color.alias.text.inverse}",
+              "value": "{color.alias.text.primary}",
               "type": "color"
             }
           },
@@ -863,7 +871,7 @@
               "type": "color"
             },
             "fg-base": {
-              "value": "{color.alias.text.inverse}",
+              "value": "{color.alias.text.primary}",
               "type": "color"
             }
           },
@@ -919,7 +927,7 @@
               "type": "color"
             },
             "fg-base": {
-              "value": "{color.alias.text.inverse}",
+              "value": "{color.alias.text.primary}",
               "type": "color"
             }
           },
@@ -975,7 +983,7 @@
               "type": "color"
             },
             "fg-base": {
-              "value": "{color.alias.text.inverse}",
+              "value": "{color.alias.text.primary}",
               "type": "color"
             }
           },
