@@ -18,6 +18,10 @@
           "value": "{primitives.color.neutral.base.200}",
           "type": "color"
         },
+        "bold": {
+          "value": "{primitives.color.neutral.base.300}",
+          "type": "color"
+        },
         "inverse": {
           "value": "{primitives.color.neutral.base.900}",
           "type": "color"
@@ -502,6 +506,10 @@
         },
         "muted": {
           "value": "{color.alias.background.muted}",
+          "type": "color"
+        },
+        "bold": {
+          "value": "{color.alias.background.bold}",
           "type": "color"
         },
         "inverse": {
