@@ -1,8 +1,12 @@
 {
   "styles": {
     "drop-shadow": {
-      "dropdown": {
-        "value": "{primitives.drop-shadow.shadow-md}",
+      "dropdown-light-mode": {
+        "value": "{primitives.drop-shadow.light-mode.shadow-md}",
+        "type": "boxShadow"
+      },
+      "dropdown-dark-mode": {
+        "value": "{primitives.drop-shadow.dark-mode.shadow-md}",
         "type": "boxShadow"
       }
     }

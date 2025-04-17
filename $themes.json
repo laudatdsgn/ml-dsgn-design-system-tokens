@@ -23,7 +23,21 @@
       "primitives.drop-shadow.shadow-lg": "S:8685cc539f04689d13b9255f7ad78e140e5522ed,",
       "primitives.drop-shadow.shadow-xl": "S:ea24a4d08c62819f783ff03356fe2758ecf67871,",
       "primitives.drop-shadow.shadow-2xl": "S:29b20ec495c0a57ed45e2e5431aaa198b0b6310e,",
-      "primitives.drop-shadow.shadow-none": "S:a72ecdbe6eab58ed76080bfe8d602b249164fcd5,"
+      "primitives.drop-shadow.shadow-none": "S:a72ecdbe6eab58ed76080bfe8d602b249164fcd5,",
+      "primitives.drop-shadow.light-mode.shadow-xs": "S:46b8b76ba6bb99a312ed3cda5c200b09c075eb67,",
+      "primitives.drop-shadow.light-mode.shadow-sm": "S:1e0f7d70d738b6757251606c7cc79a4af4d848cd,",
+      "primitives.drop-shadow.light-mode.shadow-md": "S:c43d6892267a2555f55d14756af0bae7fa4c7d5f,",
+      "primitives.drop-shadow.light-mode.shadow-lg": "S:3aae9bf29c8f1a63e231ee5432a22eccd9cc974e,",
+      "primitives.drop-shadow.light-mode.shadow-xl": "S:2995bb9aded4335b6b35c9d9a8129f638abc81cd,",
+      "primitives.drop-shadow.light-mode.shadow-2xl": "S:052acc39b17fb137304007971af2d0cdaeb54a7c,",
+      "primitives.drop-shadow.light-mode.shadow-none": "S:f3732bc682aabf8f89370b7b58d428694090754b,",
+      "primitives.drop-shadow.dark-mode.shadow-xs": "S:35b6c72f5424f86807b8c5784a9d2c34d531d4a4,",
+      "primitives.drop-shadow.dark-mode.shadow-sm": "S:b5569ea684a319f4be50cce0d2bf8315b94a9f36,",
+      "primitives.drop-shadow.dark-mode.shadow-md": "S:36691d2c8e7cada31466649e798e1d1bf74b6677,",
+      "primitives.drop-shadow.dark-mode.shadow-lg": "S:582ecf3428d857474d7e8a77c0a87779dd63cca6,",
+      "primitives.drop-shadow.dark-mode.shadow-xl": "S:4e34fa3d2b93fad65e5c6ebb8bcf12fa6bf0618d,",
+      "primitives.drop-shadow.dark-mode.shadow-2xl": "S:79396e370ebaefe1911ed6b02dc4324d33e48dd2,",
+      "primitives.drop-shadow.dark-mode.shadow-none": "S:7390abe20cc2392bfb805a22a61132349ec0bc60,"
     },
     "selectedTokenSets": {
       "primitives/colors": "enabled",
@@ -764,7 +778,9 @@
       "ui.xs.regular": "S:6848b701584783d86d512ee147ffdb0e6ac6eb9b,",
       "ui.xs.medium": "S:ee1b5a32b42c3d76673d123ae04a0b25dd59173d,",
       "ui.xs.bold": "S:dfcb82e16ecc258eccef6e69ce1ab86fc0573183,",
-      "display.xs": "S:bb5915a961b5ed0f8b4939f6eda8ed6f4f1dd196,"
+      "display.xs": "S:bb5915a961b5ed0f8b4939f6eda8ed6f4f1dd196,",
+      "styles.drop-shadow.dropdown-light-mode": "S:6e45e2aef22c2542ee5a8850dfc4431a300e0d67,",
+      "styles.drop-shadow.dropdown-dark-mode": "S:cdefda6fd611ab3628edad69ef0407acf7e48692,"
     },
     "selectedTokenSets": {
       "primitives/colors": "source",
