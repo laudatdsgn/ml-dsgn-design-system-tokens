@@ -291,6 +291,19 @@
         "textCase": "{typeset.text-case.none}"
       },
       "type": "typography"
+    },
+    "xs": {
+      "value": {
+        "fontFamily": "{typeset.font-family.display}",
+        "fontWeight": "{typeset.font-weight.body.semi-bold}",
+        "fontSize": "{typeset.font-size.fluid.xs}",
+        "lineHeight": "{typeset.line-height.display.xs}",
+        "letterSpacing": "{typeset.tracking.widest}",
+        "paragraphSpacing": "{typeset.paragraph-spacing.2xl}",
+        "textDecoration": "{typeset.text-decoration.none}",
+        "textCase": "{typeset.text-case.uppercase}"
+      },
+      "type": "typography"
     }
   },
   "body": {

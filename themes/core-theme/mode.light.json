@@ -667,6 +667,14 @@
         "fg-primary": {
           "value": "{primitives.color.primary.base.300}",
           "type": "color"
+        },
+        "bg-attention": {
+          "value": "{primitives.color.attention.base.50}",
+          "type": "color"
+        },
+        "fg-attention": {
+          "value": "{primitives.color.attention.base.300}",
+          "type": "color"
         }
       },
       "interactive": {

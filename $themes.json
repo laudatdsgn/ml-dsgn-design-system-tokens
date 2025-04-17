@@ -675,6 +675,8 @@
       "color.comps.tooltip.fg": "655a2963acd822493fb6e9a2e4b120b87235e996",
       "color.helper.hack-bg-nested-comps [DO NOT IMPLEMENT]": "88b5217d0a0a3ff87403120f7a6efbc72f5b81aa",
       "color.helper.hack-bg-ivisible [DO NOT IMPLEMENT]": "01eb099d760a6f55f6bf44cad459b5bed2310369",
+      "color.semantic.disabled.bg-attention": "633b9bc241348182436bb3eb58bd9384866654f8",
+      "color.semantic.disabled.fg-attention": "dbd1a9653bdab5f2457be6d0b1dab10abcde2448",
       "raidus.control.lg": "43efd02b21317c1a536266eb7954882aa55bf83f",
       "raidus.control.md": "4956936e604891563da4e32634f1304e6766d2fc",
       "raidus.control.sm": "07301bb787e3f7d69585606b82e5e327e1372f55",
@@ -759,7 +761,8 @@
       "ui.sm.bold": "S:930d37ba9ca60e64e6ed2ca67bc9c3b6984d44e7,",
       "ui.xs.regular": "S:6848b701584783d86d512ee147ffdb0e6ac6eb9b,",
       "ui.xs.medium": "S:ee1b5a32b42c3d76673d123ae04a0b25dd59173d,",
-      "ui.xs.bold": "S:dfcb82e16ecc258eccef6e69ce1ab86fc0573183,"
+      "ui.xs.bold": "S:dfcb82e16ecc258eccef6e69ce1ab86fc0573183,",
+      "display.xs": "S:bb5915a961b5ed0f8b4939f6eda8ed6f4f1dd196,"
     },
     "selectedTokenSets": {
       "primitives/colors": "source",
@@ -998,6 +1001,8 @@
       "color.comps.tooltip.fg": "655a2963acd822493fb6e9a2e4b120b87235e996",
       "color.helper.hack-bg-nested-comps [DO NOT IMPLEMENT]": "88b5217d0a0a3ff87403120f7a6efbc72f5b81aa",
       "color.helper.hack-bg-ivisible [DO NOT IMPLEMENT]": "01eb099d760a6f55f6bf44cad459b5bed2310369",
+      "color.semantic.disabled.bg-attention": "633b9bc241348182436bb3eb58bd9384866654f8",
+      "color.semantic.disabled.fg-attention": "dbd1a9653bdab5f2457be6d0b1dab10abcde2448",
       "raidus.control.lg": "43efd02b21317c1a536266eb7954882aa55bf83f",
       "raidus.control.md": "4956936e604891563da4e32634f1304e6766d2fc",
       "raidus.control.sm": "07301bb787e3f7d69585606b82e5e327e1372f55",
