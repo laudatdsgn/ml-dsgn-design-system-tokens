@@ -523,7 +523,7 @@
           "type": "color"
         },
         "dark-static": {
-          "value": "{primitives.color.neutral.base.800}",
+          "value": "{primitives.color.neutral.base.900}",
           "type": "color"
         }
       },
