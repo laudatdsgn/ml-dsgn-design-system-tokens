@@ -29,6 +29,10 @@
         "value": "16",
         "type": "sizing"
       },
+      "sz-18": {
+        "value": "18",
+        "type": "sizing"
+      },
       "sz-20": {
         "value": "20",
         "type": "sizing"

@@ -421,7 +421,7 @@
           },
           "ghost": {
             "base": {
-              "value": "{primitives.color.neutral.base.950}",
+              "value": "{primitives.color.neutral.base.800}",
               "type": "color"
             },
             "hover": {
