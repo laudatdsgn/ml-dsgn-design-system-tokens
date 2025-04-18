@@ -657,6 +657,24 @@
             "value": "{color.alias.accent.neutral.strong.base}",
             "type": "color"
           }
+        },
+        "brand": {
+          "solid": {
+            "value": "{color.alias.accent.primary.solid.base}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color.alias.accent.primary.subtle.base}",
+            "type": "color"
+          },
+          "ghost": {
+            "value": "{color.alias.accent.primary.ghost.base}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{color.alias.accent.primary.strong.base}",
+            "type": "color"
+          }
         }
       },
       "disabled": {
