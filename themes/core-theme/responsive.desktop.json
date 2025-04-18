@@ -69,6 +69,10 @@
         "xs": {
           "value": "roundTo(( {typeset.scale.rem-base} * pow( {typeset.scale.operators.multiplier}, -2)) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}",
           "type": "fontSizes"
+        },
+        "2xs": {
+          "value": "roundTo(( {typeset.scale.rem-base} * pow( {typeset.scale.operators.multiplier}, -3)) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}",
+          "type": "fontSizes"
         }
       },
       "static": {
@@ -106,6 +110,10 @@
         },
         "xs": {
           "value": "12",
+          "type": "fontSizes"
+        },
+        "2xs": {
+          "value": "10",
           "type": "fontSizes"
         }
       }
@@ -147,6 +155,10 @@
         "xs": {
           "value": "roundTo(({typeset.font-size.fluid.xs} * {typeset.scale.operators.display-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}",
           "type": "lineHeights"
+        },
+        "2xs": {
+          "value": "roundTo(({typeset.font-size.fluid.2xs} * {typeset.scale.operators.display-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}",
+          "type": "lineHeights"
         }
       },
       "body": {
@@ -185,6 +197,10 @@
         "xs": {
           "value": "roundTo(({typeset.font-size.fluid.xs} * {typeset.scale.operators.body-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}",
           "type": "lineHeights"
+        },
+        "2xs": {
+          "value": "roundTo(({typeset.font-size.fluid.2xs} * {typeset.scale.operators.body-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}",
+          "type": "lineHeights"
         }
       },
       "ui": {
@@ -222,6 +238,10 @@
         },
         "xs": {
           "value": "roundTo(({typeset.font-size.static.xs} * {typeset.scale.operators.ui-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}",
+          "type": "lineHeights"
+        },
+        "2xs": {
+          "value": "roundTo(({typeset.font-size.static.2xs} * {typeset.scale.operators.ui-line-height-multiplier}) / {typeset.scale.operators.factor}, 0) * {typeset.scale.operators.factor}",
           "type": "lineHeights"
         }
       }

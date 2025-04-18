@@ -780,7 +780,13 @@
       "ui.xs.bold": "S:dfcb82e16ecc258eccef6e69ce1ab86fc0573183,",
       "display.xs": "S:bb5915a961b5ed0f8b4939f6eda8ed6f4f1dd196,",
       "styles.drop-shadow.dropdown-light-mode": "S:6e45e2aef22c2542ee5a8850dfc4431a300e0d67,",
-      "styles.drop-shadow.dropdown-dark-mode": "S:cdefda6fd611ab3628edad69ef0407acf7e48692,"
+      "styles.drop-shadow.dropdown-dark-mode": "S:cdefda6fd611ab3628edad69ef0407acf7e48692,",
+      "body.2xs.regular": "S:b4fefd1a743494d076a25e8fba2138d4b25bc604,",
+      "body.2xs.medium": "S:13c93286a698b5144c02e069764f71e48f20e348,",
+      "body.2xs.bold": "S:4c1749b89fcac15550b5e1cc2a7572e859cc7540,",
+      "ui.2xs.regular": "S:e53b52b3bd56e0fedf201ace81cfd26eefbc0130,",
+      "ui.2xs.medium": "S:f5aae493fbf9d3b4cde0ebc926a26b9539f92a94,",
+      "ui.2xs.bold": "S:99faf62a1072ef918440a91774cf8dbec82ac95c,"
     },
     "selectedTokenSets": {
       "primitives/colors": "source",
@@ -1127,7 +1133,12 @@
       "typeset.line-height.ui.md": "be2b772e38e5943da7504580352e65ec0db67eb4",
       "typeset.line-height.ui.base": "67cb48eaebeb21d3bc8a65477129313464c3af58",
       "typeset.line-height.ui.sm": "8a79b7c20b43e9b45888349a37ad73c4e257d1cc",
-      "typeset.line-height.ui.xs": "5ee5b6658f3b5f97940bf9c8218bd99ee91cc470"
+      "typeset.line-height.ui.xs": "5ee5b6658f3b5f97940bf9c8218bd99ee91cc470",
+      "typeset.font-size.fluid.2xs": "90e98b86a0ff15fcaa2b9b7a18daaa1d1412b4f3",
+      "typeset.font-size.static.2xs": "a9f40e312030ca99c029f52f5c881dc1b07e1c78",
+      "typeset.line-height.display.2xs": "44d10ac30de09409702313777f38d868f7f041e7",
+      "typeset.line-height.body.2xs": "74473637bbc5c66102597d1e6765078c0c91da40",
+      "typeset.line-height.ui.2xs": "f6d7db58c954769ad5dee737629fe66505f4417d"
     },
     "group": "03-responsive"
   },
