@@ -292,12 +292,12 @@
       },
       "type": "typography"
     },
-    "xs": {
+    "overline": {
       "value": {
         "fontFamily": "{typeset.font-family.display}",
         "fontWeight": "{typeset.font-weight.body.semi-bold}",
-        "fontSize": "{typeset.font-size.fluid.xs}",
-        "lineHeight": "{typeset.line-height.display.xs}",
+        "fontSize": "{typeset.font-size.static.2xs}",
+        "lineHeight": "{typeset.line-height.ui.2xs}",
         "letterSpacing": "{typeset.tracking.widest}",
         "paragraphSpacing": "{typeset.paragraph-spacing.2xl}",
         "textDecoration": "{typeset.text-decoration.none}",

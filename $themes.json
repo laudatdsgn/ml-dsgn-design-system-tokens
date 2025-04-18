@@ -786,7 +786,8 @@
       "body.2xs.bold": "S:4c1749b89fcac15550b5e1cc2a7572e859cc7540,",
       "ui.2xs.regular": "S:e53b52b3bd56e0fedf201ace81cfd26eefbc0130,",
       "ui.2xs.medium": "S:f5aae493fbf9d3b4cde0ebc926a26b9539f92a94,",
-      "ui.2xs.bold": "S:99faf62a1072ef918440a91774cf8dbec82ac95c,"
+      "ui.2xs.bold": "S:99faf62a1072ef918440a91774cf8dbec82ac95c,",
+      "display.overline": "S:84c732d4811de359c80b60e62ae3165a051da7af,"
     },
     "selectedTokenSets": {
       "primitives/colors": "source",
