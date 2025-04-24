@@ -121,11 +121,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.primary.base.900}",
+              "value": "{primitives.color.primary.alpha-75.950}",
               "type": "color"
             },
             "pressed": {
-              "value": "{primitives.color.primary.base.800}",
+              "value": "{primitives.color.primary.alpha-25.950}",
               "type": "color"
             }
           },
@@ -193,11 +193,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.positive.base.900}",
+              "value": "{primitives.color.positive.alpha-75.950}",
               "type": "color"
             },
             "pressed": {
-              "value": "{primitives.color.positive.base.800}",
+              "value": "{primitives.color.positive.alpha-25.950}",
               "type": "color"
             }
           },
@@ -251,11 +251,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.warn.base.900}",
+              "value": "{primitives.color.warn.alpha-75.950}",
               "type": "color"
             },
             "pressed": {
-              "value": "{primitives.color.warn.base.800}",
+              "value": "{primitives.color.warn.alpha-25.950}",
               "type": "color"
             }
           },
@@ -309,11 +309,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.attention.base.900}",
+              "value": "{primitives.color.attention.alpha-75.950}",
               "type": "color"
             },
             "pressed": {
-              "value": "{primitives.color.attention.base.800}",
+              "value": "{primitives.color.attention.alpha-25.950}",
               "type": "color"
             }
           },
@@ -367,11 +367,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.informative.base.900}",
+              "value": "{primitives.color.informative.alpha-75.950}",
               "type": "color"
             },
             "pressed": {
-              "value": "{primitives.color.informative.base.800}",
+              "value": "{primitives.color.informative.alpha-25.950}",
               "type": "color"
             }
           },
@@ -425,7 +425,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.neutral.base.800}",
+              "value": "{primitives.color.neutral.base.900}",
               "type": "color"
             },
             "pressed": {
