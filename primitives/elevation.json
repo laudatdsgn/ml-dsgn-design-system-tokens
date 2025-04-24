@@ -20,7 +20,7 @@
               "y": "1",
               "blur": "3",
               "spread": "0",
-              "color": "rgba(0,0,0,0.3)",
+              "color": "rgba(0,0,0,0.05)",
               "type": "dropShadow"
             },
             {
