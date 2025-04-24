@@ -719,7 +719,7 @@
               "type": "color"
             },
             "fg-base": {
-              "value": "{color.alias.text.inverse}",
+              "value": "{color.semantic.static.light-static}",
               "type": "color"
             }
           },
@@ -849,7 +849,7 @@
               "type": "color"
             },
             "fg-base": {
-              "value": "{color.alias.text.inverse}",
+              "value": "{color.semantic.static.light-static}",
               "type": "color"
             }
           },
@@ -905,7 +905,7 @@
               "type": "color"
             },
             "fg-base": {
-              "value": "{color.alias.text.inverse}",
+              "value": "{color.semantic.static.light-static}",
               "type": "color"
             }
           },
@@ -961,7 +961,7 @@
               "type": "color"
             },
             "fg-base": {
-              "value": "{color.alias.text.inverse}",
+              "value": "{color.semantic.static.light-static}",
               "type": "color"
             }
           },
@@ -1017,7 +1017,7 @@
               "type": "color"
             },
             "fg-base": {
-              "value": "{color.alias.text.inverse}",
+              "value": "{color.semantic.static.light-static}",
               "type": "color"
             }
           },
@@ -1093,7 +1093,7 @@
           "type": "color"
         },
         "fg": {
-          "value": "{primitives.color.tint.white.100}",
+          "value": "{color.semantic.static.light-static}",
           "type": "color"
         }
       }
