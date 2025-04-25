@@ -540,7 +540,6 @@
       "color.alias.accent.informative.subtle.pressed": "20cdebb335abc20a5de339e93e2adf23ffb7ec5d",
       "color.alias.accent.informative.ghost.base": "72d30403ae6227a797bce205f6c40f9db92c013e",
       "color.alias.accent.informative.ghost.hover": "442971ca970076cc6bed00f8ff144a5aaf2fc49a",
-      "color.alias.accent.informative.ghost.pressed": "e5977d0033a2f210d7ed178bbc66067b02f19a91",
       "color.alias.accent.informative.strong.base": "38ec8d06d73f0c3642a9735ceba7aad1d29fbbb7",
       "color.alias.accent.informative.strong.hover": "d3b2e0f5660fd5dbeb90b4f70f9639e4fba0b498",
       "color.alias.accent.informative.strong.pressed": "2a65c48f9d33fda4edf67a6813df98dbf93755c7",
@@ -737,7 +736,8 @@
       "typeset.scale.operators.display-line-height-multiplier": "6f2e3f3afc99b5b16049ec7de7bbdb23bde2563f",
       "typeset.scale.operators.ui-line-height-multiplier": "419ed36c024417691bfa371d30515bbec73b6ddc",
       "typeset.scale.operators.body-line-height-multiplier": "4fba82188156d43a81eaa494089fa000561bd823",
-      "typeset.scale.operators.factor": "8298b9347376ff7694e1422a176f7ee9b0321d17"
+      "typeset.scale.operators.factor": "8298b9347376ff7694e1422a176f7ee9b0321d17",
+      "color.alias.accent.informative.ghost.pressed": "e5977d0033a2f210d7ed178bbc66067b02f19a91"
     },
     "group": "02-theme"
   },
@@ -881,7 +881,6 @@
       "color.alias.accent.informative.subtle.pressed": "20cdebb335abc20a5de339e93e2adf23ffb7ec5d",
       "color.alias.accent.informative.ghost.base": "72d30403ae6227a797bce205f6c40f9db92c013e",
       "color.alias.accent.informative.ghost.hover": "442971ca970076cc6bed00f8ff144a5aaf2fc49a",
-      "color.alias.accent.informative.ghost.pressed": "e5977d0033a2f210d7ed178bbc66067b02f19a91",
       "color.alias.accent.informative.strong.base": "38ec8d06d73f0c3642a9735ceba7aad1d29fbbb7",
       "color.alias.accent.informative.strong.hover": "d3b2e0f5660fd5dbeb90b4f70f9639e4fba0b498",
       "color.alias.accent.informative.strong.pressed": "2a65c48f9d33fda4edf67a6813df98dbf93755c7",
@@ -1078,7 +1077,8 @@
       "typeset.scale.operators.display-line-height-multiplier": "6f2e3f3afc99b5b16049ec7de7bbdb23bde2563f",
       "typeset.scale.operators.ui-line-height-multiplier": "419ed36c024417691bfa371d30515bbec73b6ddc",
       "typeset.scale.operators.body-line-height-multiplier": "4fba82188156d43a81eaa494089fa000561bd823",
-      "typeset.scale.operators.factor": "8298b9347376ff7694e1422a176f7ee9b0321d17"
+      "typeset.scale.operators.factor": "8298b9347376ff7694e1422a176f7ee9b0321d17",
+      "color.alias.accent.informative.ghost.pressed": "e5977d0033a2f210d7ed178bbc66067b02f19a91"
     },
     "group": "02-theme"
   },
