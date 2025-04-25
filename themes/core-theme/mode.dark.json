@@ -565,7 +565,7 @@
           "type": "color"
         },
         "link": {
-          "value": "{color.alias.accent.primary.solid.base}",
+          "value": "{color.alias.accent.primary.subtle.on-subtle}",
           "type": "color"
         }
       },
