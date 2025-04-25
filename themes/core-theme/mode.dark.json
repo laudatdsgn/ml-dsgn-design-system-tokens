@@ -802,7 +802,7 @@
       "interactive": {
         "primary": {
           "solid": {
-            "bg-default": {
+            "bg-base": {
               "value": "{color.alias.accent.primary.solid.base}",
               "type": "color"
             },
@@ -814,13 +814,13 @@
               "value": "{color.alias.accent.primary.solid.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.primary.solid.on-solid}",
               "type": "color"
             }
           },
           "subtle": {
-            "bg-default": {
+            "bg-base": {
               "value": "{color.alias.accent.primary.subtle.base}",
               "type": "color"
             },
@@ -832,13 +832,13 @@
               "value": "{color.alias.accent.primary.subtle.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.primary.subtle.on-subtle}",
               "type": "color"
             }
           },
           "ghost": {
-            "bg-default": {
+            "bg-base": {
               "value": "{color.alias.accent.primary.ghost.base}",
               "type": "color"
             },
@@ -850,7 +850,7 @@
               "value": "{color.alias.accent.primary.ghost.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.primary.ghost.on-ghost}",
               "type": "color"
             }
@@ -869,7 +869,7 @@
             "value": "{color.alias.accent.secondary.pressed}",
             "type": "color"
           },
-          "fg-default": {
+          "fg-base": {
             "value": "{color.semantic.static.light-static}",
             "type": "color"
           }
@@ -888,7 +888,7 @@
               "value": "{color.alias.accent.positive.solid.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.positive.solid.on-solid}",
               "type": "color"
             }
@@ -906,7 +906,7 @@
               "value": "{color.alias.accent.positive.subtle.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.positive.subtle.on-subtle}",
               "type": "color"
             }
@@ -924,7 +924,7 @@
               "value": "{color.alias.accent.positive.ghost.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.positive.ghost.on-ghost}",
               "type": "color"
             }
@@ -944,7 +944,7 @@
               "value": "{color.alias.accent.warn.solid.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.warn.solid.on-solid}",
               "type": "color"
             }
@@ -962,7 +962,7 @@
               "value": "{color.alias.accent.warn.subtle.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.warn.subtle.on-subtle}",
               "type": "color"
             }
@@ -980,7 +980,7 @@
               "value": "{color.alias.accent.warn.ghost.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.warn.ghost.on-ghost}",
               "type": "color"
             }
@@ -1000,7 +1000,7 @@
               "value": "{color.alias.accent.attention.solid.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.attention.solid.on-solid}",
               "type": "color"
             }
@@ -1018,7 +1018,7 @@
               "value": "{color.alias.accent.attention.subtle.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.attention.subtle.on-subtle}",
               "type": "color"
             }
@@ -1036,7 +1036,7 @@
               "value": "{color.alias.accent.attention.ghost.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.attention.ghost.on-ghost}",
               "type": "color"
             }
@@ -1056,7 +1056,7 @@
               "value": "{color.alias.accent.informative.solid.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.informative.solid.on-solid}",
               "type": "color"
             }
@@ -1074,7 +1074,7 @@
               "value": "{color.alias.accent.informative.subtle.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.informative.subtle.on-subtle}",
               "type": "color"
             }
@@ -1092,7 +1092,7 @@
               "value": "{color.alias.accent.informative.ghost.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.informative.ghost.on-ghost}",
               "type": "color"
             }
@@ -1112,7 +1112,7 @@
               "value": "{color.alias.accent.neutral.solid.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.neutral.solid.on-solid}",
               "type": "color"
             }
@@ -1130,7 +1130,7 @@
               "value": "{color.alias.accent.neutral.subtle.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.neutral.subtle.on-subtle}",
               "type": "color"
             }
@@ -1148,7 +1148,7 @@
               "value": "{color.alias.accent.neutral.ghost.pressed}",
               "type": "color"
             },
-            "fg-default": {
+            "fg-base": {
               "value": "{color.alias.accent.neutral.ghost.on-ghost}",
               "type": "color"
             }
