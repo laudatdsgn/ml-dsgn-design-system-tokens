@@ -20,6 +20,7 @@
     "themes/---------------",
     "themes/black-theme/styles",
     "themes/black-theme/mode.light",
-    "themes/black-theme/mode.dark"
+    "themes/black-theme/mode.dark",
+    "mode.light.minified"
   ]
 }

@@ -48,7 +48,8 @@
       "primitives/breakpoint": "enabled",
       "primitives/elevation": "enabled",
       "primitives/spacing": "enabled",
-      "primitives/sizing": "enabled"
+      "primitives/sizing": "enabled",
+      "mode.light.minified": "disabled"
     },
     "group": "01-primitives",
     "$figmaCollectionId": "VariableCollectionId:152:996",
@@ -458,7 +459,8 @@
       "primitives/colors": "source",
       "themes/core-theme/styles": "enabled",
       "themes/core-theme/typography": "enabled",
-      "themes/core-theme/mode.light": "enabled"
+      "themes/core-theme/mode.light": "enabled",
+      "mode.light.minified": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:152:997",
     "$figmaModeId": "152:3",
@@ -823,7 +825,8 @@
       "primitives/colors": "source",
       "themes/core-theme/styles": "enabled",
       "themes/core-theme/typography": "enabled",
-      "themes/core-theme/mode.dark": "enabled"
+      "themes/core-theme/mode.dark": "enabled",
+      "mode.light.minified": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:152:997",
     "$figmaModeId": "152:4",
@@ -1137,7 +1140,8 @@
     "selectedTokenSets": {
       "themes/core-theme/typography": "source",
       "themes/core-theme/responsive.desktop": "enabled",
-      "themes/core-theme/styles": "source"
+      "themes/core-theme/styles": "source",
+      "mode.light.minified": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:152:998",
     "$figmaModeId": "152:5",
@@ -1208,7 +1212,8 @@
     "selectedTokenSets": {
       "themes/core-theme/typography": "source",
       "themes/core-theme/responsive.tablet": "enabled",
-      "themes/core-theme/styles": "source"
+      "themes/core-theme/styles": "source",
+      "mode.light.minified": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:152:998",
     "$figmaModeId": "152:6",
@@ -1274,7 +1279,8 @@
     "selectedTokenSets": {
       "themes/core-theme/styles": "source",
       "themes/core-theme/typography": "source",
-      "themes/core-theme/responsive.mobile": "enabled"
+      "themes/core-theme/responsive.mobile": "enabled",
+      "mode.light.minified": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:152:998",
     "$figmaModeId": "152:7",
