@@ -521,19 +521,19 @@
       },
       "surface": {
         "canvas": {
-          "value": "{color.alias.surface.base}",
+          "value": "{color.alias.overlay.base}",
           "type": "color"
         },
         "lowest": {
-          "value": "{color.alias.surface.lowest}",
+          "value": "{color.alias.overlay.lowest}",
           "type": "color"
         },
         "elevated": {
-          "value": "{color.alias.surface.elevated}",
+          "value": "{color.alias.overlay.elevated}",
           "type": "color"
         },
         "overlay": {
-          "value": "{color.alias.surface.overlay}",
+          "value": "{color.alias.overlay.base}",
           "type": "color"
         }
       },

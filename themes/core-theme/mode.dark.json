@@ -27,19 +27,7 @@
           "type": "color"
         }
       },
-      "surface": {
-        "base": {
-          "value": "{primitives.color.neutral.base.900}",
-          "type": "color"
-        },
-        "lowest": {
-          "value": "{primitives.color.neutral.base.800}",
-          "type": "color"
-        },
-        "elevated": {
-          "value": "{primitives.color.neutral.base.900}",
-          "type": "color"
-        },
+      "overlay": {
         "overlay": {
           "value": "{primitives.color.tint.black.90}",
           "type": "color"
@@ -575,19 +563,19 @@
       },
       "surface": {
         "canvas": {
-          "value": "{color.alias.surface.base}",
+          "value": "{color.alias.background.base}",
           "type": "color"
         },
         "lowest": {
-          "value": "{color.alias.surface.lowest}",
+          "value": "{color.alias.background.soft}",
           "type": "color"
         },
         "elevated": {
-          "value": "{color.alias.surface.elevated}",
+          "value": "{color.alias.background.base}",
           "type": "color"
         },
         "overlay": {
-          "value": "{color.alias.surface.overlay}",
+          "value": "{color.alias.overlay.base}",
           "type": "color"
         }
       },
