@@ -28,7 +28,7 @@
         }
       },
       "overlay": {
-        "overlay": {
+        "base": {
           "value": "{primitives.color.tint.black.90}",
           "type": "color"
         }
