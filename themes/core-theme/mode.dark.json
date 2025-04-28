@@ -89,7 +89,7 @@
               "type": "color"
             },
             "on-solid": {
-              "value": "{primitives.color.neutral.base.900}",
+              "value": "{primitives.color.tint.white.100}",
               "type": "color"
             }
           },
@@ -107,7 +107,7 @@
               "type": "color"
             },
             "on-strong": {
-              "value": "{primitives.color.neutral.base.900}",
+              "value": "{primitives.color.tint.white.100}",
               "type": "color"
             }
           },
@@ -143,7 +143,7 @@
               "type": "color"
             },
             "on-ghost": {
-              "value": "{primitives.color.primary.base.500}",
+              "value": "{primitives.color.primary.base.600}",
               "type": "color"
             }
           }
@@ -231,7 +231,7 @@
               "type": "color"
             },
             "on-ghost": {
-              "value": "{primitives.color.positive.base.500}",
+              "value": "{primitives.color.positive.base.600}",
               "type": "color"
             }
           }
@@ -305,7 +305,7 @@
               "type": "color"
             },
             "on-ghost": {
-              "value": "{primitives.color.warn.base.500}",
+              "value": "{primitives.color.warn.base.600}",
               "type": "color"
             }
           }
@@ -379,7 +379,7 @@
               "type": "color"
             },
             "on-ghost": {
-              "value": "{primitives.color.attention.base.500}",
+              "value": "{primitives.color.attention.base.600}",
               "type": "color"
             }
           }
@@ -453,7 +453,7 @@
               "type": "color"
             },
             "on-ghost": {
-              "value": "{primitives.color.informative.base.500}",
+              "value": "{primitives.color.informative.base.600}",
               "type": "color"
             }
           }
@@ -527,7 +527,7 @@
               "type": "color"
             },
             "on-ghost": {
-              "value": "{primitives.color.neutral.base.500}",
+              "value": "{primitives.color.neutral.base.600}",
               "type": "color"
             }
           }
@@ -869,7 +869,7 @@
               "type": "color"
             },
             "on-solid": {
-              "value": "{color.alias.accent.primary.solid.on-solid}",
+              "value": "{primitives.color.tint.white.100}",
               "type": "color"
             }
           },
@@ -879,7 +879,7 @@
               "type": "color"
             },
             "on-strong": {
-              "value": "{color.alias.accent.primary.strong.on-strong}",
+              "value": "{primitives.color.tint.white.100}",
               "type": "color"
             }
           },
