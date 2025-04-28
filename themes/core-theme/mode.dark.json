@@ -906,11 +906,11 @@
         }
       },
       "disabled": {
-        "bg-default": {
+        "default": {
           "value": "{color.alias.background.muted}",
           "type": "color"
         },
-        "fg-default": {
+        "on-default": {
           "value": "{color.alias.foreground.muted}",
           "type": "color"
         }
