@@ -183,15 +183,15 @@
           },
           "strong": {
             "default": {
-              "value": "{primitives.color.positive.base.700}",
+              "value": "{primitives.color.positive.base.400}",
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.positive.base.800}",
+              "value": "{primitives.color.positive.base.300}",
               "type": "color"
             },
             "active": {
-              "value": "{primitives.color.positive.base.900}",
+              "value": "{primitives.color.positive.base.200}",
               "type": "color"
             },
             "on-strong": {
@@ -201,37 +201,37 @@
           },
           "subtle": {
             "default": {
-              "value": "{primitives.color.positive.base.300}",
+              "value": "{primitives.color.positive.base.800}",
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.positive.base.400}",
+              "value": "{primitives.color.positive.base.700}",
               "type": "color"
             },
             "active": {
-              "value": "{primitives.color.positive.base.500}",
+              "value": "{primitives.color.positive.base.600}",
               "type": "color"
             },
             "on-subtle": {
-              "value": "{primitives.color.positive.base.700}",
+              "value": "{primitives.color.positive.base.300}",
               "type": "color"
             }
           },
           "ghost": {
             "default": {
-              "value": "{primitives.color.positive.base.50}",
+              "value": "{primitives.color.positive.base.950}",
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.positive.base.100}",
+              "value": "{primitives.color.positive.base.900}",
               "type": "color"
             },
             "active": {
-              "value": "{primitives.color.positive.base.200}",
+              "value": "{primitives.color.positive.base.800}",
               "type": "color"
             },
             "on-ghost": {
-              "value": "{primitives.color.positive.base.600}",
+              "value": "{primitives.color.positive.base.400}",
               "type": "color"
             }
           }

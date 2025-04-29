@@ -1225,11 +1225,11 @@
       "typeset.line-height.ui.base": "67cb48eaebeb21d3bc8a65477129313464c3af58",
       "typeset.line-height.ui.sm": "8a79b7c20b43e9b45888349a37ad73c4e257d1cc",
       "typeset.line-height.ui.xs": "5ee5b6658f3b5f97940bf9c8218bd99ee91cc470",
-      "typeset.font-size.fluid.2xs": "f1653de0031297e2d56f0e2a388497b9a2e2d117",
-      "typeset.font-size.static.2xs": "3777fc4889e30be93551b043d4f11fea4b64ea1e",
-      "typeset.line-height.display.2xs": "fde88015c80d255e1500b8e1eb8f6a30dbd42a56",
-      "typeset.line-height.body.2xs": "78efc95372760a62d36a34e3912cee7ddd7d42b4",
-      "typeset.line-height.ui.2xs": "668140c3a582d63dc7df61e21b88adee9651551b"
+      "typeset.font-size.fluid.2xs": "28bc241d771857c7c9ad16623a6e0c3d45befae0",
+      "typeset.font-size.static.2xs": "825aa03da8b9cd872dbdf10274ab530f4e582e52",
+      "typeset.line-height.display.2xs": "cfe88cde46b720bd1bc04b82bfc72736651ba211",
+      "typeset.line-height.body.2xs": "36d621a1deb266298db05083f258c02c76eb454e",
+      "typeset.line-height.ui.2xs": "3795dcd04f73a62b44311ef8bdb6ab6b4831f1b6"
     },
     "group": "03-responsive"
   },
