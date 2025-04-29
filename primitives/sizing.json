@@ -5,6 +5,10 @@
         "value": "0",
         "type": "sizing"
       },
+      "sz-2": {
+        "value": "2",
+        "type": "sizing"
+      },
       "sz-4": {
         "value": "4",
         "type": "sizing"

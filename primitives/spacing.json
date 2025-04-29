@@ -5,6 +5,10 @@
         "value": "0",
         "type": "spacing"
       },
+      "sp-2": {
+        "value": "2",
+        "type": "spacing"
+      },
       "sp-4": {
         "value": "4",
         "type": "spacing"

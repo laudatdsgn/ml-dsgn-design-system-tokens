@@ -339,6 +339,7 @@
       "primitives.color.tint.black.90": "26d9e51662f54fb5a1fa9c9f0349a884fcfa1abe",
       "primitives.color.tint.black.100": "ab24b5676b83e5688d5aea7af0dc254229af1dd5",
       "primitives.spacing.sp-0": "55c890ecb8b0f65e6c317c8ea8a0234691b2f275",
+      "primitives.spacing.sp-2": "af992c88ba9cf89ea0ab9705bcbe0fcb4ba922f7",
       "primitives.spacing.sp-4": "7730a1913493933b26eb6951a048b23e43116be3",
       "primitives.spacing.sp-6": "b22665dbc94c7d74aced768043122116eca8490b",
       "primitives.spacing.sp-8": "5f7960319dcadf36a9e6103a6e51e01baaaac71e",
@@ -367,6 +368,7 @@
       "primitives.spacing.sp-92": "a668d11f61824c5625e1ab13bb4048aaf65e12d4",
       "primitives.spacing.sp-96": "1a66d7c8b42fabdec8586aa29dda025de353a6a7",
       "primitives.sizing.sz-0": "22ab8c2343b39f1d60376467be4c97a0cef3c04a",
+      "primitives.sizing.sz-2": "fc6d503cce223d3d44f8cd1711d9fbb584a5af96",
       "primitives.sizing.sz-4": "f515c821291a8950639746c9440c0b2fb3748c67",
       "primitives.sizing.sz-6": "ad0af221105612007e92d0cf0e0cedd3c228f0e3",
       "primitives.sizing.sz-8": "6e760a3b55775f139f8813b6d0f370f5f982faf0",
@@ -1153,11 +1155,11 @@
       "typeset.line-height.ui.base": "67cb48eaebeb21d3bc8a65477129313464c3af58",
       "typeset.line-height.ui.sm": "8a79b7c20b43e9b45888349a37ad73c4e257d1cc",
       "typeset.line-height.ui.xs": "5ee5b6658f3b5f97940bf9c8218bd99ee91cc470",
-      "typeset.font-size.fluid.2xs": "4eab04fae36258997003303f074b615d022c4831",
-      "typeset.font-size.static.2xs": "d41258f9013e58533491e5361ce6818614ef8acf",
-      "typeset.line-height.display.2xs": "4c6432ad10c66fcc85e5e063c23ca6620a39fa66",
-      "typeset.line-height.body.2xs": "746f621325360816b6e0aa7997a9a61092efc573",
-      "typeset.line-height.ui.2xs": "5afc58474d324a8f1922569431716994c486ecfc"
+      "typeset.font-size.fluid.2xs": "f70f0ac7dbf3d79ba9d6a63953d1d66de9abfd39",
+      "typeset.font-size.static.2xs": "9cce9f919a8f67d9747238155c92c243ef3667b1",
+      "typeset.line-height.display.2xs": "ee05d9b38909c05b4120a3204e0c5b86b5bc47dd",
+      "typeset.line-height.body.2xs": "4e380746ccf5adaa161a55625bbf0a2c59b11084",
+      "typeset.line-height.ui.2xs": "26b02ddeb21e655cfc6f5d3d1a48eaed8ca8947f"
     },
     "group": "03-responsive"
   },
