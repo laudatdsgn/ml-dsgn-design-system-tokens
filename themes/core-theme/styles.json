@@ -29,7 +29,7 @@
   },
   "opacity": {
     "disabled-accented": {
-      "value": "{primitives.opacity.o-40}",
+      "value": "{primitives.opacity.o-50}",
       "type": "opacity"
     }
   }
