@@ -26,5 +26,11 @@
         "type": "borderRadius"
       }
     }
+  },
+  "opacity": {
+    "disabled-accented": {
+      "value": "{primitives.opacity.o-40}",
+      "type": "opacity"
+    }
   }
 }
