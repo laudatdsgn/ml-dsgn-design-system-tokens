@@ -407,19 +407,19 @@
           },
           "ghost": {
             "default": {
-              "value": "{primitives.color.neutral.base.950}",
+              "value": "{primitives.color.neutral.base.800}",
               "type": "color"
             },
             "hover": {
-              "value": "{primitives.color.neutral.alpha-50.900}",
-              "type": "color"
-            },
-            "active": {
               "value": "{primitives.color.neutral.alpha-50.800}",
               "type": "color"
             },
+            "active": {
+              "value": "{primitives.color.neutral.alpha-50.700}",
+              "type": "color"
+            },
             "on-ghost": {
-              "value": "{primitives.color.neutral.base.400}",
+              "value": "{primitives.color.neutral.base.300}",
               "type": "color"
             }
           }
